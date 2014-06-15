@@ -1,0 +1,115 @@
+a {
+	color: #0F4D92;
+}
+
+body {
+	font-family: Century Gothic;
+
+}
+
+h1 {
+	padding-left: 15px;
+	font-family: Century Gothic;
+}
+
+hr {
+	border-color: #0F4D92;
+	width:90%;
+}
+
+.container {
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 100%;
+}
+
+.row {
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.row-front * {
+	padding:10px;	
+}
+
+.updates * {
+	text-align: center
+}
+
+.content-heading {
+	text-align: center;
+	color: #0F4D92;
+}
+
+.footer {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#myNavbar * {
+	background-color: #0F4D92;
+	color: White;
+	font-family: Century Gothic;
+}
+
+#myNavbar a:link,
+#myNavbar a:visited {
+	background-color: #0F4D92;
+	color: White;
+}
+
+#myNavbar a:hover,
+#myNavbar a:active {
+	background-color: White;
+	color: #777;
+}
+
+#myNavbar a:hover > .caret,
+#myNavbar a:active > .caret {
+	color: #0F4D92;
+	background-color: White;
+}
+
+.bloc-heading {
+	align:left;
+	color: #0F4D92;
+}
+
+.committee {
+	padding-bottom: 10px;
+}
+
+.anchor {
+	padding-top: 55px;
+	margin-top: -55px;
+}
+
+.carousel-caption {
+  right: 50%;
+  bottom: 50%;
+  left: 10%;
+  top:35%;
+}
+
+.carousel-caption > h1 {
+  font-size:3em;
+  font-weight:bold;
+}
+
+
+.carousel-caption > p {
+  font-size:1.5em;
+}
+
+.carousel-inner > .item > img {
+	width: 100%;
+	max-height: 850px;
+}
+
+.img-circle {
+	vertical-align: middle;
+	display:block;
+	margin:auto;
+}
