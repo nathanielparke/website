@@ -5,7 +5,7 @@
 
 <!-- Marketing Container -->
 <div class="container">
-    <div class="col-md-10 col-md-offset-1 content">
+    <div class="col-md-10 col-md-offset-1 content bgimg">
         <h1 class="content-heading">BMUN LXII Recap</h2>
         <hr>
         <div class="row front">
