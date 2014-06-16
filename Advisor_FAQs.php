@@ -5,12 +5,12 @@
 
 <!-- Marketing Container -->
 <div class="container">
-    <div class="col-md-10 col-md-offset-1">
+    <div class="col-md-10 col-md-offset-1 content">
         <h1 class="content-heading">Advisor FAQs</h2>
 
         <hr>
 
-        <div class="FAQ-header">
+        <div class="FAQ-header bgimg">
 
 	        <h2 class="bloc-heading">Registration</h2>
 	        <ol>

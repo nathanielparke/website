@@ -5,7 +5,7 @@
 
 <!-- Marketing Container -->
 <div class="container">
-    <div class="col-md-10 col-md-offset-1">
+    <div class="col-md-10 col-md-offset-1 content bgimg">
         <h1 class="content-heading">Committees</h2>
 
             <hr>

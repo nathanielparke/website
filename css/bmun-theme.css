@@ -4,6 +4,12 @@ a {
 
 body {
 	font-family: Century Gothic;
+}
+
+.bgimg {
+	background-image:url(../img/BG_Logo.png);
+	background-repeat:no-repeat;
+	background-position: center center;
 
 }
 
@@ -15,6 +21,12 @@ h1 {
 hr {
 	border-color: #0F4D92;
 	width:90%;
+	background-color: #F8F8F8;
+}
+
+hr.bottom {
+	margin: 0px;
+	width: 100%;
 }
 
 .container {
@@ -23,6 +35,15 @@ hr {
 	padding-left: 0px;
 	padding-right: 0px;
 	width: 100%;
+	background-color: #F8F8F8;
+}
+
+.content {
+	background-color: white; 
+}
+
+.content:after {
+	content:"\a\a"; white-space:pre;
 }
 
 .row {
