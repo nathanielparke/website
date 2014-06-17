@@ -11,25 +11,25 @@
               <!-- Three columns of text below the carousel -->
         <div class="row updates">
             <div class="col-lg-3">
-                <img class="img-circle" src="img/Globe_Logo_Blue.jpg">
+                <img class="img-circle" src="img/Globe_Logo_Blue.png">
                 <h2>Outreach Letter</h2>
                 <p><a class="btn btn-default" href="Outreach_Letter.php" role="button">
                     Read it now! &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-3">
-                <img class="img-circle" src="img/Globe_Logo_Blue.jpg">
+                <img class="img-circle" src="img/Globe_Logo_Blue.png">
                 <h2>SG Letter </h2>
                 <p><a class="btn btn-default" href="SG_Letter.php" role="button">
                     Read it now! &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-3">
-                <img class="img-circle" src="img/Globe_Logo_Blue.jpg">
+                <img class="img-circle" src="img/Globe_Logo_Blue.png">
                 <h2>Golden Bears Letter</h2>
                 <p><a class="btn btn-default" href="Golden_Bears_Letter.php" role="button">
                     Read it now! &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-3">
-                <img class="img-circle" src="img/Globe_Logo_Blue.jpg">
+                <img class="img-circle" src="img/Globe_Logo_Blue.png">
                 <h2>Delegate Welcome Letter</h2>
                 <p><a class="btn btn-default" href="Delegate_Welcome.php" role="button">
                     Read it now! &raquo;</a></p>
