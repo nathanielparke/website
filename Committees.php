@@ -48,7 +48,7 @@
                 <h3 class="committee-heading"> Food and Agricultural Organization</h3>
                 <h5><strong>Head Chair: Sharon Licht</strong></h5>
                 <h5><strong>Vice Chairs: Giselle Fang, Winnie Itago</h5></strong>
-                <h5><strong>Topics: Sustainable Land Management, Food Insecurity</strong></h5>
+                <h5><strong>Topics: Sustainable Land Management, Food Insecurity: Challening FAO's Guiding Framework</strong></h5>
             </div>
 
             <div class="col-md-6 committee">
