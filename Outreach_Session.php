@@ -66,7 +66,7 @@
 
         $message = $_POST['message'];
 
-        mail($to, $subject, $message, $from);
+        $sentmail = mail($to, $subject, $message, $from);
     }
 
     include 'html/header.html';
@@ -86,8 +86,11 @@
                 method="POST" id="outreach">
 
                 <?php if (!$errors) {
-                    echo "<div class=\"alert alert-success\"> Thank you " . $_POST['name'] . 
-                    "! Your email has been sent. We hope to get back to you soon.</div>";
+                    if ($sentmail) {
+                        echo "<div class=\"alert alert-success\"> Thank you " . $_POST['name'] . "! Your email has been sent. We hope to get back to you soon.</div>";
+                    } else {
+                        echo "<div class=\"alert alert-danger\"> Your email could not be sent. Please email outreach@bmun.org directly. </div>";
+                    }
                 }
                 else {
                     if (!empty($nameErr)) { 
