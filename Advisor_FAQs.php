@@ -48,11 +48,12 @@
 
         <div class="FAQs"> 
 
-	        <h2 class="bloc-heading">Registration</h2>
+	        <h2 class="bloc-heading">Registration <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
 
 		    <dl>
 		    	<dt id="reg_q1" class="anchor">I haven’t received any mailings from BMUN. What should I do?</dt>
-		    	<dd>To be included in our mailing list, please email <a href="mailto:info@bmun.org">info@bmun.org</a> with your name, email address, and the school name.</dd>
+		    	<dd>To be included in our mailing list, please email <a href="mailto:info@bmun.org">info@bmun.org</a> with your name, email address, and the school name.
+		    	</dd>
 
 		    	<br>
 
@@ -75,7 +76,7 @@
 
 		    </dl>
 
-			<h2 class="bloc-heading">Payment</h2>
+			<h2 class="bloc-heading">Payment <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
 
 		    <dl>
 		    	<dt id="pay_q1" class="anchor">Who should I make the check payable out to?</dt>
@@ -88,7 +89,7 @@
 
 		    </dl>
 
-		    <h2 class="bloc-heading">BMUN 63</h2>
+		    <h2 class="bloc-heading">BMUN 63 <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
 
 			<dl>
 		    	<dt id="bmun_q1" class="anchor">What are the new committees at BMUN 63?</dt>
@@ -172,7 +173,7 @@
 		    	
 		    </dl>
 
-		    <h2 class="bloc-heading">Miscellaneous</h2>
+		    <h2 class="bloc-heading">Miscellaneous <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
 
 		    <dl>
 		    	<dt id="misc_q1" class="anchor">What does BMUN 63 mean by going green, and why is BMUN undertaking this initiative?</dt>
