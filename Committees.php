@@ -68,7 +68,7 @@
             <div class="col-md-6 committee">
                 <h3 class="committee-heading"> International Labour Organization</h3>
                 <h5><strong>Head Chair: Shilpa Daulat</strong></h5>
-                <h5><strong>Vice Chairs: Efe Atli, Nikhil Narayen</h5></strong>
+                <h5><strong>Vice Chairs: Efe Atli, Nikhil Agarwal</h5></strong>
                 <h5><strong>Topics: Maintaining the Rights of Farm Workers, Promotion of Cooperatives to Drive Job Growth</strong></h5>
             </div>
 
