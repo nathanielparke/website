@@ -94,6 +94,10 @@ hr.bottom {
 	background-color: White;
 }
 
+.navbar-img {
+	max-height: 100%;
+}
+
 .bloc-heading {
 	align:left;
 	color: #0F4D92;
