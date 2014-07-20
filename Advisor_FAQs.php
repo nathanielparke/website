@@ -111,7 +111,7 @@
 		    			</li> <br>
 
 		    			<li><strong>International Criminal Court (ICC)</strong> <br>
-		    			The International Criminal Court (ICC) is an independent, permanent court that tries persons accused of the most serious crimes of international concern, namely genocide, crimes against humanity and war crimes. The ICC is a court of last resort, and only tries those accused of the gravest crimes. In all of its activities, the ICC observes the highest standards of fairness and due process. The jurisdiction and functioning of the ICC are governed by the Rome Statute.
+		    			The International Criminal Court (ICC) is an independent, permanent court that tries persons accused of the most serious crimes of international concern, namely genocide, crimes against humanity and war crimes. ICC is a specialized committee that runs very similar to a court. There are two sides to an argument being presented by two lawyers (our dais), the head chair serves as the mediator, and the delegates rule on the verdict after a long weekend of hearing witnesses for both sides. This committee is meant to advance students understanding of international law.
 		    			<small> Source: <a href="http://www.icc-cpi.int/en_menus/icc/Pages/default.aspx"> ICC </a></small>
 		    			</li> <br>
 
