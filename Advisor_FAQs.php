@@ -25,6 +25,7 @@
 			<ol>
 	        	<li><a href="#pay_q1">Who should I make the check payable out to?</a></li>
 	        	<li><a href="#pay_q2">Has my payment been received? Where can I view my financial statement?</a></li>
+	        	<li><a href="#pay_q3">How much are registration fees?</a></li>
 	        </ol>        
 
 	        <h2 class="bloc-heading">BMUN 63</h2>
@@ -86,6 +87,11 @@
 
 		    	<dt id="pay_q2" class="anchor">Has my payment been received? Where can I view my financial statement?</dt>
 		    	<dd>After we receive your school’s payment, we record the information, and an automatic confirmation email should be sent out. </dd>
+
+		    	<br>
+
+		    	<dt id="pay_q3" class="anchor">How much are registration fees?</dt>
+		    	<dd>BMUN 63 has a static School and Delegate fee of $50. This means that schools will need to pay an initial school fee of $50 and then $50 for each delegate that registers. While we do not have an early registration fee this year, we still recommend that schools try to register earlier than later, since country-committee assignments may be affected.</dd>
 
 		    </dl>
 
