@@ -16,7 +16,7 @@
                 <h3 class="committee-heading"> 1st Disarmament & International Security</h3>
                 <h5><strong>Head Chair: Nate Parke</strong></h5>
                 <h5><strong>Vice Chairs: Sarah Yue, Paul Lee</h5></strong>
-                <h5><strong>Topics: Cyber Warfare, Illicit Substance Trade</strong></h5>
+                <h5><strong>Topics: Cyber Warfare, Sectarian States in the Middle East</strong></h5>
             </div>
 
             <div class="col-md-6 committee" style="text-align:right">

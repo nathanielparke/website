@@ -19,6 +19,7 @@
 	        	<li><a href="#reg_q3">How do I know my school has been registered?</a></li>
 	        	<li><a href="#reg_q4">What do the deadlines mean?</a></li>
 	        	<li><a href="#reg_q5">I see on my assignments list that I have been assigned different countries for different blocs. Is this normal? </a></li>
+	        	<li><a href="#reg_q6">When does registration begin?</a></li>
 	        </ol>
 
 	        <h2 class="bloc-heading">Payment</h2>
@@ -75,6 +76,11 @@
 		    	<dt id="reg_q5" class="anchor">I see on my assignments list that I have been assigned different countries for different blocs. Is this normal? </dt>
 		    	<dd>Yes. In order to better fit delegation sizes and preferences, BMUN occasionally makes separate assignments for different blocs. For example, Brazil in Bloc A might be assigned to a different school than Brazil in Bloc B.</dd>
 
+		    	<br>
+
+		    	<dt id="reg_q6" class="anchor">When does registration begin? </dt>
+		    	<dd>Registration for BMUN 2015 will open on September 15. Until then, if you have any questions or concerns regarding registration, please contact us at <a href="mailto:info@bmun.org">info@bmun.org</a>.</dd>
+
 		    </dl>
 
 			<h2 class="bloc-heading">Payment <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
@@ -103,7 +109,7 @@
 		    	<dd>
 		    		<ul>
 		    			<li><strong>Interpol (ICPO)</strong> <br>
-		    			INTERPOL is the world’s largest international police organization, with 190 ﻿	member countries. Its role is to enable police around the world to work together to make the world a safer place. Its high-tech infrastructure of technical and operational support helps meet the growing challenges of fighting crime in the 21st century. <small> Source: <a href="http://www.interpol.int/About-INTERPOL/Overview"> Interpol </a> </small>
+		    			INTERPOL is the world’s largest international police organization, with 193 ﻿	member countries. Its role is to enable police around the world to work together to make the world a safer place. Its high-tech infrastructure of technical and operational support helps meet the growing challenges of fighting crime in the 21st century. At BMUN this year, the committee will focus on coordinating member nations' police forces in order to find new solutions to the ongoing issue of Maritime Piracy in African and Southeast Asian waters. Additionally we will consider at a new area of concern for Interpol by tackling issues of corruption and terrorism in sport under the topic of Sports Policing. <small> Source: <a href="http://www.interpol.int/About-INTERPOL/Overview"> Interpol </a> </small>
 		    			</li> <br>
 
 		    			<li><strong>Food and Agriculture Organization (FAO)</strong> <br>
@@ -112,12 +118,12 @@
 		    			</li> <br>
 
 		    			<li><strong>International Labor Organization (ILO)</strong> <br>
-		    			The International Labour Organization (ILO) is devoted to promoting social justice and internationally recognized human and labour rights, pursuing its founding mission that labour peace is essential to prosperity. Today, the ILO helps advance the creation of decent work and the economic and working conditions that give working people and business people a stake in lasting peace, prosperity and progress. Its tripartite structure provides a unique platform for promoting decent work for all women and men. Its main aims are to promote rights at work, encourage decent employment opportunities, enhance social protection and strengthen dialogue on work-related issues.
+		    			The International Labour Organization is a specialized committee of the United Nations Development Group tasked with ensuring decent work and fair labour standards for all working people, with the goal of “lasting peace, prosperity and progress” in mind. Founded after World War I through a framework of social justice and human rights, the ILO is unique in its tripartite structure, which consists of government, worker and employer representatives from among 185 member-states.
 		    			<small> Source: <a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm"> ILO </a> </small>
 		    			</li> <br>
 
 		    			<li><strong>International Criminal Court (ICC)</strong> <br>
-		    			The International Criminal Court (ICC) is an independent, permanent court that tries persons accused of the most serious crimes of international concern, namely genocide, crimes against humanity and war crimes. ICC is a specialized committee that runs very similar to a court. There are two sides to an argument being presented by two lawyers (our dais), the head chair serves as the mediator, and the delegates rule on the verdict after a long weekend of hearing witnesses for both sides. This committee is meant to advance students understanding of international law.
+		    			ICC is a specialized committee that runs very similar to a court. There are two sides to an argument being presented by two lawyers (our dais), the head chair serves as the mediator, and the delegates rule on the verdict after a long weekend of hearing witnesses for both sides. This committee is meant to advance students understanding of international law.
 		    			<small> Source: <a href="http://www.icc-cpi.int/en_menus/icc/Pages/default.aspx"> ICC </a></small>
 		    			</li> <br>
 
@@ -154,28 +160,55 @@
 		    	<br>
 
 		    	<dt id="bmun_q2" class="anchor">Which committees are single delegation and which are dual?</dt>
-		    	<dd> COMING SOON
+		    	<dd> For our 63rd session, these following committees are single-delegate:
+		    		<ul>
+		    			<li>International Criminal Court (ICC)</li>
+		    			<li>Inter-American Development Bank (IDB)</li>
+		    			<li>United Nations Global Compact (UNGC)</li>
+		    			<li>International Financial Corporation (IFC)</li>
+		    			<li>Genghis Khan's Military Dynasty (KHAN)</li>
+		    			<li>Atlantic City Conference (ACC)</li>
+		    			<li>Joint Crisis Cabinet (JCC)</li>
+		    			<li>Press Corps (PRESS)</li>
+		    		</ul>
+		    		These following committees are dual delegation:
+		    		<ul>
+		    			<li>1st Disarmament and International Security (DISC)</li>
+		    			<li>3rd Social, Cultural and Humanitarian (SOCHUM)</li>
+		    			<li>4th Special Political and Decolonization (SPD)</li>
+		    			<li>Interpol (ICPO)</li>
+		    			<li>Food and Agriculture Organization (FAO)</li>
+		    			<li>World Health Organization (WHO)</li>
+		    			<li>UN Environmental Programme (UNEP)</li>
+		    			<li>International Labour Organization (ILO)</li>
+		    			<li>European Union (EU)</li>
+		    			<li>Asia-Pacific Economic Cooperation (APEC)</li>
+		    			<li>Group of 20 Committee (G20)</li>
+		    			<li>Security Council (SC)</li>
+		    		</ul>
 		    	</dd>
 
 		    	<br>
 
 		    	<dt id="bmun_q3" class="anchor">What do the blocs mean?</dt>
-		    	<dd>Bloc A refers to the three large General Assembly committees. They are all double-delegation committees, which means that one Block A assignment consists of 6 seats. 
+		    	<dd>Block A refers to large General Assembly committees. For the 63rd Session, the Block A committees are: 1st Disarmament (DISC), 3rd Social, Cultural and Humanitarian (SOCHUM), and 4th Special Political and Decolonization (SPD). All 3 are double-delegation committees, which means that one Block A assignment consists of 6 seats.
 
-		    	Block B refers to medium sized committees. All five are double-delegation committees, so one Block B assignment consists of 10 seats.
+		    	Block B refers to medium sized committees. For the 63rd Session, the five Block B committees are: Interpol (ICPO),  the Food and Agriculture Organization (FAO), the World Health Organization (WHO), the United Nations Environment Programme (UNEP), and the International Labor Organization (ILO). All are double-delegation committees, so one Block B assignment consists of ten seats
 
-		    	The rest of the committees are in the Specialized bloc, which encompasses a variety of committee styles, including Crisis, Security Council, and Press. It includes a mix of single- and double-delegation committees.  
+		    	Specialized Committees include the European Union (EU), the Asia-Pacific Economic Cooperation (APEC), the Group of 20 (G-20), the International Criminal Court (ICC) Security Council (SC), the Inter-American Development Bank (IDB), the United Nations Global Compact (UNGC), the International Finance Corporation (IFC), and the Press Corps (PRESS). Most of these committees will be single delegation. Among the Specialized committees we have the three crisis committees Genghis Khan’s Military Dynasty, the Atlantic City Conference, and the Joint Crisis Cabinet. These are all single delegation.
 		    	</dd>
 
 		    	<br>
 		    	<dt id="bmun_q4" class="anchor">There are two different deadlines for position papers. What does each mean?</dt>
-		    	<dd>COMING SOON
+		    	<dd>January 31, 2015 is the deadline for delegates to submit their position papers to be eligible for both research awards and committee awards.
+
+		    	February 11, 2015 is the deadline for delegates to submit their position papers to be eligible for only committee awards and not research awards.
 		    	</dd>
 
 		    	<br>
 
 		    	<dt id="bmun_q5" class="anchor">How will position papers be submitted?</dt>
-		    	<dd>In-line with BMUN’s goal of facilitating a waste-neutral, green conference, position papers will continue to be accepted via e-mail only. Delegates should submit their papers to their head chairs’ emails, listed under the Committees page. </dd>
+		    	<dd>In-line with BMUN’s goal of facilitating a waste-neutral, green conference, position papers will now be accepted through a Google form. Not only does this process standardize position paper writing for all delegates, it will also help allow responses and feedback from head chairs to delegates a much more streamlined process. </dd>
 		    	
 		    </dl>
 
