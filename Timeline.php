@@ -41,13 +41,6 @@
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Reminder Email About Registration</h2>
-					<span class="cd-date">Sep 14</span>
-				</div> 
-			</div> 
-
-			<div class="cd-timeline-block">
-				<div class="cd-timeline-content">
 					<h2>Registration Begins</h2>
 					<span class="cd-date">Sep 15</span>
 				</div> 
@@ -76,15 +69,15 @@
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Guaranteed Deadlines</h2>
-					<span class="cd-date">Jan 17</span>
+					<h2>Assignment Finalization</h2>
+					<span class="cd-date">Jan 24</span>
 				</div> 
-			</div>
+			</div> 
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Assignment Finalization</h2>
-					<span class="cd-date">Jan 24</span>
+					<h2>Position Paper Deadline 1: Research Award Eligibility</h2>
+					<span class="cd-date">Feb 1</span>
 				</div> 
 			</div> 
 
@@ -101,6 +94,13 @@
 					<span class="cd-date">Feb 7/8</span>
 				</div> 
 			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Position Paper Deadline 2: Committee Award Eligibility</h2>
+					<span class="cd-date">Feb 11</span>
+				</div> 
+			</div> 
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
