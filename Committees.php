@@ -128,7 +128,7 @@
             <div class="col-md-6 committee" style="text-align:right">
                 <h3 class="committee-heading"> International Finance Cooperation</h3>
                 <h5><strong>Head Chair: Sergio-Ruiz Tello</strong></h5>
-                <h5><strong>Vice Chairs: Vishal Kalyanasundaram, Dylan Randle</h5></strong>
+                <h5><strong>Vice Chairs: Vishal Kalyanasundaram</h5></strong>
                 <h5><strong>Topics: Open Agenda on Investment Climate & Public-Private Partnerships</strong></h5>
             </div>
 
