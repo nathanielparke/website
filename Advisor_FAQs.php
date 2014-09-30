@@ -169,7 +169,6 @@
 		    			<li>Genghis Khan's Military Dynasty (KHAN)</li>
 		    			<li>Atlantic City Conference (ACC)</li>
 		    			<li>Joint Crisis Cabinet (JCC)</li>
-		    			<li>Press Corps (PRESS)</li>
 		    		</ul>
 		    		These following committees are dual delegation:
 		    		<ul>
@@ -185,6 +184,7 @@
 		    			<li>Asia-Pacific Economic Cooperation (APEC)</li>
 		    			<li>Group of 20 Committee (G20)</li>
 		    			<li>Security Council (SC)</li>
+		    			<li>Press Corps (PRESS)</li>
 		    		</ul>
 		    	</dd>
 
