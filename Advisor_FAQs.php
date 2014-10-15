@@ -20,13 +20,16 @@
 	        	<li><a href="#reg_q4">What do the deadlines mean?</a></li>
 	        	<li><a href="#reg_q5">I see on my assignments list that I have been assigned different countries for different blocs. Is this normal? </a></li>
 	        	<li><a href="#reg_q6">When does registration begin?</a></li>
+	        	<li><a href="#reg_q7">What is the maximum number of delegates I can bring?</a></li>
 	        </ol>
 
 	        <h2 class="bloc-heading">Payment</h2>
 			<ol>
 	        	<li><a href="#pay_q1">Who should I make the check payable out to?</a></li>
-	        	<li><a href="#pay_q2">Has my payment been received? Where can I view my financial statement?</a></li>
+	        	<li><a href="#pay_q2">Has my payment been received? </a></li>
 	        	<li><a href="#pay_q3">How much are registration fees?</a></li>
+	        	<li><a href="#pay_q4">Where can I view my current balance?</a></li>
+	        	<li><a href="#pay_q5">How can I pay the registration fees?</a></li>
 	        </ol>        
 
 	        <h2 class="bloc-heading">BMUN 63</h2>
@@ -81,6 +84,11 @@
 		    	<dt id="reg_q6" class="anchor">When does registration begin? </dt>
 		    	<dd>Registration for BMUN 2015 will open on September 15. Until then, if you have any questions or concerns regarding registration, please contact us at <a href="mailto:info@bmun.org">info@bmun.org</a>.</dd>
 
+		    	<br>
+
+		    	<dt id="reg_q7" class="anchor">What is the maximum number of delegates I can bring? </dt>
+		    	<dd>Here at Berkeley Model United Nations, we set no cap on how many delegates a group can bring. Traditionally, our largest delegations have brought 50 delegates.</dd>
+
 		    </dl>
 
 			<h2 class="bloc-heading">Payment <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
@@ -91,13 +99,23 @@
 
 		    	<br>
 
-		    	<dt id="pay_q2" class="anchor">Has my payment been received? Where can I view my financial statement?</dt>
+		    	<dt id="pay_q2" class="anchor">Has my payment been received? </dt>
 		    	<dd>After we receive your school’s payment, we record the information, and an automatic confirmation email should be sent out. </dd>
 
 		    	<br>
 
 		    	<dt id="pay_q3" class="anchor">How much are registration fees?</dt>
 		    	<dd>BMUN 63 has a static School and Delegate fee of $50. This means that schools will need to pay an initial school fee of $50 and then $50 for each delegate that registers. While we do not have an early registration fee this year, we still recommend that schools try to register earlier than later, since country-committee assignments may be affected.</dd>
+
+		    	<br>
+
+		    	<dt id="pay_q4" class="anchor">Where can I view my current balance?</dt>
+		    	<dd>Advisors can now check how much they owe on registration fees on our registration application, Huxley. Simply log into Huxley with your account and click on the “Payment” tab to view how much is owed. Huxley will have automatically calculated the costs by taking the number of delegates registered, multiplying it to the delegate fee ($50), and adding the group fee of $50 to it. </dd>
+
+		    	<br>
+
+		    	<dt id="pay_q5" class="anchor">How can I pay for the registration fees?</dt>
+		    	<dd>Groups now have three options to pay for their registration fees. The first option advisors have is by going on Huxley, clicking on the “Payment” tab, and then following the link to our external payment site on Zoho. <b>Please note that if you would like to make your Delegate Fee payments before delegate finalization, be aware that your school balance may change as delegates drop and join your delegation. Once our Finalize Delegate Roster feature becomes available in January on Huxley, you will have an idea of what your final balance will be.</b> The second option is to send a check to our mailing address at PO Box 4306, Berkeley, CA, 94704. And, finally, the third option advisors have is to submit their payment during registration on the first day of conference. </dd>
 
 		    </dl>
 
