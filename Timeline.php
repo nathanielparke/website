@@ -35,7 +35,7 @@
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
 					<h2>First Mailing</h2>
-					<span class="cd-date">July 21</span>
+					<span class="cd-date">July	 21</span>
 				</div> 
 			</div> 
 
@@ -56,20 +56,20 @@
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
 					<h2>Second Mailing; Topic Synopses; First round of Country Assignments</h2>
-					<span class="cd-date">Nov 2/3</span>
+					<span class="cd-date">Nov 7</span>
 				</div> 
 			</div> 
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
 					<h2>Third Mailing</h2>
-					<span class="cd-date">Dec 25/26</span>
+					<span class="cd-date">Dec 26</span>
 				</div> 
 			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Assignment Finalization</h2>
+					<h2>Assignment Finalization; Alumni Scholarship Deadline</h2>
 					<span class="cd-date">Jan 24</span>
 				</div> 
 			</div> 
@@ -91,7 +91,7 @@
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
 					<h2>Fourth Mailing</h2>
-					<span class="cd-date">Feb 7/8</span>
+					<span class="cd-date">Feb 8</span>
 				</div> 
 			</div>
 
@@ -104,15 +104,15 @@
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Delegate Name Finalization For Waitlisted Schools; Delegate Waivers Due</h2>
+					<h2>Delegate Name Finalization For Waitlisted Schools; Delegate Waivers Due; Payment Due</h2>
 					<span class="cd-date">Feb 13</span>
 				</div> 
 			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Delegate Guide and Advisor Checklist</h2>
-					<span class="cd-date">Feb 16</span>
+					<h2>Waitlist Payment Due</h2>
+					<span class="cd-date">Feb 20</span>
 				</div> 
 			</div> 
 

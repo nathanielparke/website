@@ -90,18 +90,6 @@
             </div>
         </div>
 
-        <!--<hr>
-
-        <div class="row-front">
-            <div class="col-md-6">
-                <img class="featurette-image img-responsive" src = "">
-            </div>
-            <div class="col-md-6">
-                <h2 class="featurette-heading">Conference Cause</h2>
-                <p class="lead">COMING SOON</p>
-            </div>
-        </div>-->
-
 
         <!-- /END THE FEATURETTES -->
 
