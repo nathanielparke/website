@@ -126,7 +126,7 @@
             </div>
 
             <div class="col-md-6 committee" style="text-align:right">
-                <h3 class="committee-heading"> International Finance Cooperation</h3>
+                <h3 class="committee-heading"> International Finance Corporation</h3>
                 <h5><strong>Head Chair: Sergio-Ruiz Tello</strong></h5>
                 <h5><strong>Vice Chairs: Vishal Kalyanasundaram, Jessie Mao</h5></strong>
                 <h5><strong>Topics: Open Agenda on Investment Climate & Public-Private Partnerships</strong></h5>
@@ -147,7 +147,7 @@
             </div>
 
             <div class="col-md-6 committee">
-                <h3 class="committee-heading"> Joint Crisis Cabinet</h3>
+                <h3 class="committee-heading"> Joint Cabinet Crisis</h3>
                 <h5><strong>Head Chair: Andy Yuan</strong></h5>
                 <h5><strong>Vice Chairs: Rita Hu, Tiffany Gean, Jessica Zhao, Eric Cherwin, Haochen Zhou</h5></strong>
                 <h5><a href="img/BMUN63 JCC final.pdf">Topics: Chinese Civil War</a></h5>
