@@ -30,7 +30,7 @@
                 <h3 class="committee-heading"> 4th Special Political & Decolonization</h3>
                 <h5><strong>Head Chair: Gabby Armato</strong></h5>
                 <h5><strong>Vice Chairs: Gloria Cheung, Adam Yankelevits, Rob Purviance</h5></strong>
-                <h5><strong>Topics: Peacekeeping, Palestinian Refugees and Human Rights</strong></h5>
+                <h5><a href="img/BMUN63 SPD final.pdf">Topics: Peacekeeping, Palestinian Refugees and Human Rights</a></h5>
             </div>
 
             <hr>
@@ -115,7 +115,7 @@
                 <h3 class="committee-heading"> Inter-American Development Bank</h3>
                 <h5><strong>Head Chair: Emily Truax</strong></h5>
                 <h5><strong>Vice Chairs: Brett Buckingham, Hunter Conrad, Adrian Hernandez</h5></strong>
-                <h5><strong>Topics: International Financial Institutions, Early Exposure to Technology in Latin America</strong></h5>
+                <h5><a href="img/BMUN63 IDB final.pdf">Topics: International Financial Institutions, Early Exposure to Technology in Latin America</a></h5>
             </div>
 
             <div class="col-md-6 committee">
@@ -129,7 +129,7 @@
                 <h3 class="committee-heading"> International Finance Corporation</h3>
                 <h5><strong>Head Chair: Sergio-Ruiz Tello</strong></h5>
                 <h5><strong>Vice Chairs: Vishal Kalyanasundaram, Jessie Mao</h5></strong>
-                <h5><strong>Topics: Open Agenda on Investment Climate & Public-Private Partnerships</strong></h5>
+                <h5><a href="img/BMUN63 IFC final.pdf">Topics: Open Agenda on Investment Climate & Public-Private Partnerships</a></h5>
             </div>
 
             <div class="col-md-6 committee">
