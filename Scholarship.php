@@ -15,7 +15,7 @@
         <p>This scholarship is meant for students who would otherwise struggle with or be unable to pay for the cost of attending BMUN. Each application will be evaluated on a case-by-case basis and will either partially or fully fund the delegate’s trip to the conference. There is no upper limit on the award, but delegates chosen for the scholarship will be required to provide receipts and documentation for their expenditures. </p>
         <p>We highly encourage all students in financial need to apply. Please submit the requested materials by January 31, 2014. In addition, we ask that the faculty member or advisor recommending you submit his form separately by the same deadline. If you have any questions do not hesitate to reach out to us, and we will be more than happy to assist you. </p>
 
-        <p> The application can be downloaded <a href='BMUN_Alumni_Scholarship.pdf'>here</a>.</p>
+        <p> The application can be downloaded <a href='img/BMUN_Alumni_Scholarship.pdf'>here</a>.</p>
 
         <p>Sincerely,</p>
 
