@@ -1,4 +1,4 @@
-<?php 
+<?php
     include 'html/header.html';
     include 'html/navbar.html'
 ?>
@@ -36,7 +36,7 @@
             <hr>
 
             <h2 class="bloc-heading">BLOC B</h2>
-            
+
             <div class="col-md-6 committee">
                 <h3 class="committee-heading"> Interpol</h3>
                 <h5><strong>Head Chair: Arshia Singh</strong></h5>
@@ -87,7 +87,7 @@
                 <h3 class="committee-heading"> Asia-Pacific Economic Cooperation</h3>
                 <h5><strong>Head Chair: Nicola Evans</strong></h5>
                 <h5><strong>Vice Chairs: Mischa Fritz, Adam Umemoto</h5></strong>
-                <h5><strong>Topics: Standardizing Emergency Response to Natural Disasters, Regulating Economic Policies to Preserve Human Security</strong></h5>
+                <h5><a href="img/BMUN63 APEC final.pdf">Topics: Standardizing Emergency Response to Natural Disasters, Regulating Economic Policies to Preserve Human Security</a></h5>
             </div>
 
             <div class="col-md-6 committee">
@@ -108,7 +108,7 @@
                 <h3 class="committee-heading"> Security Council</h3>
                 <h5><strong>Head Chair: Brandon Doan</strong></h5>
                 <h5><strong>Vice Chairs: Trevor Dowds, Zoe Brouns</h5></strong>
-                <h5><strong>Topics: South Sudan <small>(Subject to Change)</small>, Open Agenda</strong></h5>
+                <h5><a href="img/BMUN63 SC final.pdf">Topics: South Sudan <small>(Subject to Change)</small>, Open Agenda</a></h5>
             </div>
 
             <div class="col-md-6 committee" style="text-align:right">
