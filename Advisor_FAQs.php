@@ -152,7 +152,7 @@
 
 		    			<li><strong>Inter-American Development Bank (IDB)</strong> <br>
 		    			The IDB is a bilingual committee that focuses on decreasing inequality and poverty through sustainable solutions, including loans, grants, and research, in the Latin American and the Caribbean regions. Our committee stresses measurable results to the countries being served through integrity, transparency, and accountability. The two topics we will be focusing on are: International Financial Institutions as methods to assist development projects in English, and Technology in development, in Spanish.
-		    			<small> Source: <a href="http://www.iadb.org/en/inter-american-development-bank,2837.html/"> IDB </a> </small>
+		    			<small> Source: <a href="http://www.iadb.org/en/inter-american-development-bank,2837.html"> IDB </a> </small>
 		    			</li> <br>
 
 		    			<li><strong>Press Corps (PRESS)</strong> <br>
@@ -289,7 +289,7 @@
 						<strong>Distance from San Francisco Airport</strong>: 23.7 miles <br>
 		    			</li> <br>
 
-		    			<li><a href="http://www.hiexberkeley.com/"><strong>Holiday Inn Express Hotel & Suites</strong></a><br>
+		    			<li><a href="http://www.ihg.com/holidayinnexpress/hotels/us/en/berkeley/bekca/hoteldetail"><strong>Holiday Inn Express Hotel & Suites</strong></a><br>
 						The Holiday Inn at Berkeley is only a stone’s throw away from the UC Berkeley campus and is everything you would expect from a quality-guaranteed hotel. Perfect for groups with buses, since the two mile walk to campus is a bit daunting.
 		    			<br>
 						<strong>For Reservations</strong>: (510)548-1700<br>
