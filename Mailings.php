@@ -133,7 +133,7 @@
 				<div class="panel-heading">
 				  <h4 class="panel-title">
 				    <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
-				      Dev 16th - Alumni Scholarship
+				      Dec 16th - Alumni Scholarship
 				    </a>
 				  </h4>
 				</div>
@@ -143,6 +143,33 @@
 					<p>On behalf of the BMUN Secretariat, I am pleased to announce that our annual Alumni Scholarship is now available!</p>
 					<p>One of the many things that Berkeley Model United Nations prides itself on is being one of the most affordable, competitive MUN conference around the world. We firmly believe that students everywhere should be given the opportunity to succeed regardless of their financial background. As such, one way that we seek to support these students is by providing an annual scholarship called the Alumni Scholarship. The BMUN Secretariat dedicates part of its funds to pay for the costs of attending the conference. Each application will be evaluated on a case-by-case basis and will either partially or fully fund the delegate’s trip to the conference.  </p>
 					<p>Delegates can access the application either on our website or directly download it by clicking <a href="img/BMUN_Alumni_Scholarship.pdf">here</a>. This year, more than ever before, BMUN is equipped to provide students who attend BMUN with need-based scholarships. We encourage you to share this information with your delegates for them to apply for the BMUN Alumni Scholarship! The deadline to apply is January 31st, 2015, and scholarship winners will be notified on February 7th.</p>
+					<p>As always, if there any questions please do not hesitate to email me at info@bmun.org!</p>
+
+					<p style="align:left; max-width:50%">Hee Soo Kim<br>
+					USG of External Relations<br>
+					Berkeley Model United Nations, 63rd Session<br>
+					<a href="mailto:info@bmun.org" target="_blank">info@bmun.org</a></p>
+				  </div>
+				</div>
+			</div>
+
+			<div class="panel panel-default">
+				<div class="panel-heading">
+				  <h4 class="panel-title">
+				    <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
+				      Dec 26th - Important Updates
+				    </a>
+				  </h4>
+				</div>
+				<div id="collapseSix" class="panel-collapse collapse">
+				  <div class="panel-body">
+				    <p>Dear MUN Advisor,</p>
+					<p>Happy holidays from the Secretariat of Berkeley Model United Nations! We hope you and everyone at your school have been having a wonderful winter. This mailing details some important deadlines as well as information about blogs, the International Students Reception, and position papers.</p>
+					<p>First and foremost, we require all teams to finalize their delegate number by January 24th. Please follow <a href="https://docs.google.com/forms/d/1s83hT3Y7c9DlOi9y_dW7aPjAJ9XMNvaZz-Pbi5YyFnE/viewform">this link</a> to fill out the appropriate information and submit your assignment finalization. Any teams that do not complete the form by the deadline will face forfeiture of their assignments. Following January 24th, teams will no longer be able to change their assignments. Teams understand that they are financially liable for all of the assignments they indicate on the form. For each delegate a team does not bring past the deadline, it will receive no greater than a $10 refund. We cannot stress enough the importance of filling out the Assignment Finalization form on time. As such, we encourage advisors to submit their numbers as early as possible.</p>
+					<p>Second, the form to submit position papers is now open! The link to the form is available in this mailing <a href="https://docs.google.com/a/bmun.org/forms/d/1wV_dqEJqcJ8a1fvmXeJ1dvJEAR1VCuaQiufW6nQIaHE/viewform">here</a>, and it will also be available on our website very soon. A reminder that the format for position papers is different this year, and we encourage your delegates to read over the <a href="img/Position_Paper_Rubric.pdf">Position Paper Grading Rubric</a> and our <a href="img/Delegate_Welcome_Letter.pdf">USG of Research’s letter</a> with further details. The first position paper deadline is February 1st,  for delegates to be eligible for research and general committee awards. The second deadline is February 11th for just committee award eligibility. </p>
+					<p>Along the same vein, I am happy to announce that our famous committee blogs are now up! Blogs are something that has distinguished Berkeley Model United Nations from other MUN conferences around the world and have been repeatedly praised by advisors and delegates alike for its innovative nature. Each committee is responsible for maintaining a blog by regularly posting a variety of things to contribute to the committee, and delegates respond to the posts by commenting. Some examples of posts in the past have been case studies of particular countries affected by the topic, current event articles, and character profiles. Not only do they give delegates an opportunity for further research and keep updated on their topics, they also provide a platform for delegates to acquaint with one another before conference even starts and a digital bridge linking the chairs and delegates. We highly encourage all delegates to participate, as blogs have often contributed to shaping debate on the weekend of conference, and because they are also very helpful resources. Committee blogs can be found by typing in COMMITTEE ACRONYM.blogs.bmun.org (eg. For 1st Disarmament and International Security (DISC), the link would be disc.blogs.bmun.org). Links to the blogs will be up on our website very shortly, but in the meanwhile <a href="img/Committee_Acronyms.pdf">here is a list of committee acronyms</a> to help your delegates find their blogs. The first post will be up on January 2nd!</p>
+					<p>For international teams, the Berkeley Model United Nations team has prepared an International Student Reception on the Friday of conference weekend, February 27th, 2015. We welcome all international teams to come and participate, as we have many activities planned such as a campus tour, a seminar hosted by a UC Berkeley Admissions Officer, and a BMUN procedure workshop. This reception is completely free of charge and snacks and refreshments will be provided. More details will follow very shortly! </p>
+					<p>And finally, a reminder that the Alumni Scholarship deadline is January 24th. As detailed in the previous mailing, please inform your team that any delegates that require financial assistance in attending the sixty-third session of BMUN should apply! </p>
 					<p>As always, if there any questions please do not hesitate to email me at info@bmun.org!</p>
 
 					<p style="align:left; max-width:50%">Hee Soo Kim<br>
