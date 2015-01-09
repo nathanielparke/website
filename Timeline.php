@@ -70,7 +70,7 @@
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
 					<h2>Assignment Finalization; Alumni Scholarship Deadline</h2>
-					<span class="cd-date">Jan 24</span>
+					<span class="cd-date">Jan 31</span>
 				</div> 
 			</div> 
 
@@ -90,8 +90,22 @@
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
+					<h2>Alumni Scholarship Winners Notified</h2>
+					<span class="cd-date">Feb 7</span>
+				</div> 
+			</div> 
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
 					<h2>Fourth Mailing</h2>
 					<span class="cd-date">Feb 8</span>
+				</div> 
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Alumni Scholarship Award Acceptance Deadline</h2>
+					<span class="cd-date">Feb 10</span>
 				</div> 
 			</div>
 

@@ -6,7 +6,7 @@
 <!-- Marketing Container -->
 <div class="container">
     <div class="col-md-10 col-md-offset-1 content bgimg">
-        <h1 class="content-heading">Golden Bears Letter</h1>
+        <h1 class="content-heading">Alumni Scholarship Letter</h1>
         <hr>
 
         <p>Dear Delegates and Advisors,</p>
@@ -21,7 +21,7 @@
 
         <p style="align:left; max-width:50%">Jonas Majewski<br>
         Treasurer | BMUN LXIII <br>
-        <a href="mailto:chief@bmun.org" target="_blank">treasurer@bmun.org</a></p>
+        <a href="mailto:treasurer@bmun.org" target="_blank">treasurer@bmun.org</a></p>
     </div>
 </div>
 
