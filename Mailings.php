@@ -128,7 +128,6 @@
 				</div>
 			</div>
 
-
 			<div class="panel panel-default">
 				<div class="panel-heading">
 				  <h4 class="panel-title">
@@ -171,6 +170,32 @@
 					<p>For international teams, the Berkeley Model United Nations team has prepared an International Student Reception on the Friday of conference weekend, February 27th, 2015. We welcome all international teams to come and participate, as we have many activities planned such as a campus tour, a seminar hosted by a UC Berkeley Admissions Officer, and a BMUN procedure workshop. This reception is completely free of charge and snacks and refreshments will be provided. More details will follow very shortly! </p>
 					<p>And finally, a reminder that the Alumni Scholarship deadline is January 24th. As detailed in the previous mailing, please inform your team that any delegates that require financial assistance in attending the sixty-third session of BMUN should apply! </p>
 					<p>As always, if there any questions please do not hesitate to email me at info@bmun.org!</p>
+
+					<p style="align:left; max-width:50%">Hee Soo Kim<br>
+					USG of External Relations<br>
+					Berkeley Model United Nations, 63rd Session<br>
+					<a href="mailto:info@bmun.org" target="_blank">info@bmun.org</a></p>
+				  </div>
+				</div>
+			</div>
+
+			<div class="panel panel-default">
+				<div class="panel-heading">
+				  <h4 class="panel-title">
+				    <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
+				      Jan 24th - More Important Updates
+				    </a>
+				  </h4>
+				</div>
+				<div id="collapseSeven" class="panel-collapse collapse">
+				  <div class="panel-body">
+				    <p>Dear MUN Advisor,</p>
+					<p>Thank you all for submitting your finalized delegation numbers in by the deadline. This mailing contains important information including delegate names submission and liability waivers.</p>
+					<p>First, we would like to remind all teams that the Alumni Scholarship deadline is January 31st! We sincerely encourage any and all delegates who might need financial assistance in attending our conference to apply. Applications can be either submitted to treasurer@bmun.org by 11:59 PST on January 31st or mailed to our PO Box, postmarked by January 31st. </p>
+					<p>In addition, the deadlines to submit position papers are rapidly approaching as well. For both research and committee award eligibility, delegates must submit their papers in by February 1st. For just committee award eligibility, delegates must submit their papers in by February 11th. The link for delegates to submit their position papers can be found on our website, under the “Delegates” tab along with the position paper guidelines. Some committees have a different style of position paper submission, such as some of the Crisis committees, and head chairs have notified the delegates of the differences through their blogs.</p>
+					<p>On that note, we strongly encourage all teams to regularly check on and participate in our committee blogs! Links for each committee’s blog can be found on our website, under the “BMUN LXIII” tab in the “Committees” page. Head chairs will be posting some very important and relevant information for delegates, and, as such, it is recommended that all delegates follow along.</p>
+					<p>And now, two very important, mandatory deadlines. First, we ask that you submit delegate names for each assignment. This must be completed by February 6th. Please follow <a href="https://docs.google.com/forms/d/1s0v4uEJC28KC7BcDz4lVkyhrk88vjD39Fxfv-9AgYSQ/viewform">this link</a> to submit your delegate names. And secondly, all delegates must fill out a liability form in order to attend our conference. Similar to last year, we will be having our forms available to fill out online by following this link. Forms must be submitted by February 13th, or delegates risk unable to attend the sixty-third session of Berkeley Model United Nations.</p>
+					<p>Thank you very much, and, as always, if there any questions or concerns please email us at info@bmun.org.</p>
 
 					<p style="align:left; max-width:50%">Hee Soo Kim<br>
 					USG of External Relations<br>

@@ -69,8 +69,15 @@
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Assignment Finalization; Alumni Scholarship Deadline</h2>
-					<span class="cd-date">Jan 31</span>
+					<h2>Assignment Finalization</h2>
+					<span class="cd-date">Jan 24th</span>
+				</div> 
+			</div> 
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Alumni Scholarship Deadline</h2>
+					<span class="cd-date">Jan 31st</span>
 				</div> 
 			</div> 
 
