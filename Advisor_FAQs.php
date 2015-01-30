@@ -218,7 +218,7 @@
 
 		    	<br>
 		    	<dt id="bmun_q4" class="anchor">There are two different deadlines for position papers. What does each mean?</dt>
-		    	<dd>January 31, 2015 is the deadline for delegates to submit their position papers to be eligible for both research awards and committee awards.
+		    	<dd>Feburary 1, 2015 is the deadline for delegates to submit their position papers to be eligible for both research awards and committee awards.
 
 		    	February 11, 2015 is the deadline for delegates to submit their position papers to be eligible for only committee awards and not research awards.
 		    	</dd>

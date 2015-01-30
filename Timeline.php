@@ -104,7 +104,7 @@
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Fourth Mailing</h2>
+					<h2>Fourth Mailing; Waitlist Position Paper Deadline 1</h2>
 					<span class="cd-date">Feb 8</span>
 				</div> 
 			</div>
@@ -129,6 +129,13 @@
 					<span class="cd-date">Feb 13</span>
 				</div> 
 			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Waitlist Position Paper Deadline 2</h2>
+					<span class="cd-date">Feb 18</span>
+				</div> 
+			</div> 
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
