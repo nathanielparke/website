@@ -104,7 +104,7 @@
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Fourth Mailing; Waitlist Position Paper Deadline 1</h2>
+					<h2>Waitlist Position Paper Deadline 1</h2>
 					<span class="cd-date">Feb 8</span>
 				</div> 
 			</div>
@@ -125,7 +125,7 @@
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Delegate Name Finalization For Waitlisted Schools; Delegate Waivers Due; Payment Due</h2>
+					<h2>Delegate Name Finalization For Waitlisted Schools; Delegate Waivers Due; Payment Due; Fourth Mailing</h2>
 					<span class="cd-date">Feb 13</span>
 				</div> 
 			</div>
