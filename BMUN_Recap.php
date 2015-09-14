@@ -1,4 +1,4 @@
-<?php 
+<?php
     include 'html/header.html';
     include 'html/navbar.html'
 ?>
@@ -10,7 +10,7 @@
         <hr>
         <div class="row front">
             <div class="col-md-6" style="vertical-align:middle">
-                <p>As the preparation for BMUN LXIII begins, our secretariat takes a look at how far we've come and what we've accomplished. BMUN LXII brought back traditions but made many new strides as well. Our lovely head chairs ran committees with topics ranging from water security in the Americas in our Spanish bilingual committee, OAS, to our historical committee on Alexander the Great's War Council.</p>
+                <p>As we transition into preparations for BMUN’s 64th session, the secretariat reflects back on the highlights of the past 63rd session. Once again the committees featured an eclectic slate of topics, from sports policing to currency wars to Mongol expansion. Not all negotiations were resolved peacefully. Executions and excommunications took place left and right. “Al Capone”, for instance, was reportedly shot to death in the Atlantic City Conference.</p>
             </div>
             <div class="col-md-6">
                 <img class="featurette-image img-responsive" src="img/Opening_Head_Chairs.jpg">
@@ -22,9 +22,9 @@
         <div class="row front">
             <div class="col-md-6">
                 <img class="featurette-image img-responsive" src="img/Rules_Presentation.jpg">
-            </div>            
+            </div>
             <div class="col-md-6">
-                <p>As Berkeley's weather warmed, the school welcomed 1,600 students to its campus on the weekend of March 8-10, 2014. The first ever Rules and Procedures presentation was held during BMUN LXII's first day. Here, members of the BMUN secretariat delivered a fast-paced tutorial of parliamentary procedure to brush up eager delegates' skills for committee. </p>
+                <p>Every year we are astonished by the incredible enthusiasm and professionalism of high school students who flood onto the UC Berkeley campus from all corners of the world to discuss global issues past, present, and future. This year was no different. Delegates arriving from right here in the Bay Area to those trekking from Italy coalesced for three days of speeches, negotiations, and secret deals. Others travelled from Chicago, Canada, and China. Although BMUN is primarily a learning experience, it is also a beautiful opportunity to reunite with old friends and to make new acquaintances. We hope everyone took advantage of the chance to make a new connection with another student from a different school.</p>
             </div>
         </div>
 
@@ -32,10 +32,10 @@
 
         <div class="row front">
             <div class="col-md-6">
-                <p>Berkeley Model United Nations officially entered its 62nd session with Opening Ceremonies where our conference cause was introduced. BMUN 62 raised awareness and funds for water.org, an organization that provides safe drinking water in rural areas around the world. </p>
+                <p>During Opening Ceremony, Secretariat member Emily Reece introduced our 63rd session’s conference cause. We addressed the issue of global education in collaboration with Teach for All, and in this way, extended our impact on educating youths beyond our conference. We are grateful to all the delegates and advisors for contributing to the effort of raising awareness about the fight for equal access to quality education.</p>
             </div>
             <div class="col-md-6">
-                <img class="featurette-image img-responsive" src="img/Water.jpg">
+                <img class="featurette-image img-responsive" src="img/Teach_For_All.jpg">
             </div>
         </div>
 
@@ -44,9 +44,9 @@
         <div class="row front">
             <div class="col-md-6">
                 <img class="featurette-image img-responsive" src="img/Guest_Lecturer.jpg">
-            </div>            
+            </div>
             <div class="col-md-6">
-                <p>Many committees had guest lecturers (Berkeley professors) come and show real-world applications of the committee’s topics. BMUN delegates were able to gain new insight on the impact of Model UN in the greater scope of things, as well as a break from the intense debate.</p>
+                <p>After three days of intense policymaking, all conference attendees congregated under one roof for Closing Ceremony. Our honorable guest speaker, Mike Foulkes, began the ceremony reminiscing about his own BMUN experience from the late eighties, even presenting his old placard. Following was a string of excellent repertoires, including a rap and a rather faulty Mandarin Chinese translation. </p>
             </div>
         </div>
 
@@ -55,7 +55,7 @@
 
         <div class="row front">
             <div class="col-md-6">
-                <p>Our BMUN secretariat was sad to see the weekend come to a close, but the bittersweet end means we are even closer to see BMUN LXIII come to fruition and welcome our delegates back again! See you next March!</p>
+                <p>BMUN would not be the amazing conference it is today without the participation of every single delegate. We hope BMUN 63 will remain a fond memory to look back upon as you look forward in anticipation to the 64th session.</p>
             </div>
             <div class="col-md-6">
                 <img class="featurette-image img-responsive" src="img/Closing.jpg">

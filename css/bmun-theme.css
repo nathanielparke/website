@@ -40,7 +40,7 @@ hr.bottom {
 }
 
 .content {
-	background-color: white; 
+	background-color: white;
 }
 
 .content:after {
@@ -53,7 +53,7 @@ hr.bottom {
 }
 
 .row-front * {
-	padding:10px;	
+	padding:10px;
 }
 
 .updates * {
@@ -95,7 +95,9 @@ hr.bottom {
 }
 
 .navbar-img {
-	max-height: 100%;
+	padding: 5px;
+	width: 125px;
+	height: auto;
 }
 
 .bloc-heading {
