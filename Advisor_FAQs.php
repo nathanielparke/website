@@ -1,4 +1,4 @@
-<?php 
+<?php
     include 'html/header.html';
     include 'html/navbar.html'
 ?>
@@ -23,27 +23,27 @@
 	        	<li><a href="#reg_q7">What is the maximum number of delegates I can bring?</a></li>
 	        </ol>
 
-	        <h2 class="bloc-heading">Payment</h2>
+	        <!-- <h2 class="bloc-heading">Payment</h2>
 			<ol>
 	        	<li><a href="#pay_q1">Who should I make the check payable out to?</a></li>
 	        	<li><a href="#pay_q2">Has my payment been received? </a></li>
 	        	<li><a href="#pay_q3">How much are registration fees?</a></li>
 	        	<li><a href="#pay_q4">Where can I view my current balance?</a></li>
 	        	<li><a href="#pay_q5">How can I pay the registration fees?</a></li>
-	        </ol>        
+	        </ol> -->
 
-	        <h2 class="bloc-heading">BMUN 63</h2>
+	        <!-- <h2 class="bloc-heading">BMUN 64</h2>
 	        <ol>
-	        	<li><a href="#bmun_q1">What are the new committees at BMUN 63?</a></li>
+	        	<li><a href="#bmun_q1">What are the new committees at BMUN 64?</a></li>
 	        	<li><a href="#bmun_q2">Which committees are single delegation and which are dual?</a></li>
 	        	<li><a href="#bmun_q3">What do the blocs mean?</a></li>
 	        	<li><a href="#bmun_q4">There are two different deadlines for position papers. What does each mean?</a></li>
 	        	<li><a href="#bmun_q5">How will position papers be submitted?</a></li>
-	        </ol>
+	        </ol> -->
 
 	        <h2 class="bloc-heading">Miscellaneous</h2>
 	        <ol>
-	        	<li><a href="#misc_q1">What does BMUN 63 mean by going green, and why is BMUN undertaking this initiative?</a></li>
+	        	<li><a href="#misc_q1">What does BMUN 64 mean by going green, and why is BMUN undertaking this initiative?</a></li>
 	        	<li><a href="#misc_q2">Which hotel accommodations exist near the Berkeley campus?</a></li>
 	        </ol>
 
@@ -51,7 +51,7 @@
 
         <hr>
 
-        <div class="FAQs"> 
+        <div class="FAQs">
 
 	        <h2 class="bloc-heading">Registration <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
 
@@ -91,7 +91,7 @@
 
 		    </dl>
 
-			<h2 class="bloc-heading">Payment <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
+			<!-- <h2 class="bloc-heading">Payment <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
 
 		    <dl>
 		    	<dt id="pay_q1" class="anchor">Who should I make the check payable out to?</dt>
@@ -115,13 +115,13 @@
 		    	<br>
 
 		    	<dt id="pay_q5" class="anchor">How can I pay for the registration fees?</dt>
-		    	<dd>Groups now have three options to pay for their registration fees. The first option advisors have is by going on Huxley, clicking on the “Payment” tab, and then following the link to our external payment site on Zoho. <b>Please note that if you would like to make your Delegate Fee payments before delegate finalization, be aware that your school balance may change as delegates drop and join your delegation. Once our Finalize Delegate Roster feature becomes available in January on Huxley, you will have an idea of what your final balance will be.</b> The second option is to send a check to our mailing address at PO Box 4306, Berkeley, CA, 94704. And, finally, the third option advisors have is to submit their payment during registration on the first day of conference. </dd>
-
+		    	<dd></dd>
+ -->
 		    </dl>
 
-		    <h2 class="bloc-heading">BMUN 63 <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
+		   <!--  <h2 class="bloc-heading">BMUN 64 <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2> -->
 
-			<dl>
+			<!-- <dl>
 		    	<dt id="bmun_q1" class="anchor">What are the new committees at BMUN 63?</dt>
 		    	<br>
 		    	<dd>
@@ -164,13 +164,13 @@
 		    			</li> <br>
 
 		    			<li><strong>Genghis Khan's Military Dynasty (KHAN)</strong> <br>
-						The Mongol Empire was one of the greatest and most far reaching empires, ruling from the Pacific Ocean to the Caspian Sea. This expansion took place due to great military tactics and the ruling power of Genghis Khan. In this committee, we will rewrite history and begin back in 1206 right when Genghis Khan came to power. We will see how Genghis and his War Council will do with new threats and new enemies. 
+						The Mongol Empire was one of the greatest and most far reaching empires, ruling from the Pacific Ocean to the Caspian Sea. This expansion took place due to great military tactics and the ruling power of Genghis Khan. In this committee, we will rewrite history and begin back in 1206 right when Genghis Khan came to power. We will see how Genghis and his War Council will do with new threats and new enemies.
 		    			</li> <br>
 
 		    			<li><strong>International Finance Corporation (IFC)</strong> <br>
 						Every year the IFC works with governments, businesses, other multilateral organizations, and foundations in promoting innovative projects to address extreme poverty and foster development. In this committee, delegates will have the chance of representing national development agencies, regional development banks, ministers of finance, and directors of private companies and foundations to engage in collaborative and fast-paced discussion. IFC will focus in addressing foreign investment promotion in fragile and conflict-affected situations as well as the creation of public-private partnerships that help governments achieve long-term economic growth and better living standards.
 						<small> Source: <a href="http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home"> IFC </a> </small>
-		    			</li> 
+		    			</li>
 		    		</ul>
 
 		    	</dd>
@@ -227,9 +227,9 @@
 
 		    	<dt id="bmun_q5" class="anchor">How will position papers be submitted?</dt>
 		    	<dd>In-line with BMUN’s goal of facilitating a waste-neutral, green conference, position papers will now be accepted through a Google form. Not only does this process standardize position paper writing for all delegates, it will also help allow responses and feedback from head chairs to delegates a much more streamlined process. </dd>
-		    	
-		    </dl>
 
+		    </dl>
+ -->
 		    <h2 class="bloc-heading">Miscellaneous <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
 
 		    <dl>

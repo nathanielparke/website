@@ -1,4 +1,4 @@
-<?php 
+<?php
     include 'html/header.html';
     include 'html/navbar.html'
 ?>
@@ -9,16 +9,15 @@
         <h1 class="content-heading">Golden Bears Letter</h1>
         <hr>
 
-        <p>Dear Advisors & Delegates,</p>
-        
-        <p>Thank you again for your participation at our conference! We hope you enjoyed your time at the biggest BMUN Conference to date. The officers and secretariat are already beginning to prepare for the BMUN 63 conference and are looking forward to seeing you back at UC Berkeley next March. </p>
-        <p>Congratulations to all graduating senior delegates! For those of you who will be attending UC Berkeley in the Fall, we would like to encourage you to apply to join our organization on campus. Berkeley Model United Nations is a great way to continue your participation in MUN while in college. As a member of BMUN, you will be responsible for chairing a committee and get to experience running a conference for over 1500 high school students from all over the world. You will be part of a team of about 70 people that help to continue the oldest MUN conference in the world! There are many opportunities to take on leadership positions, network with an extensive alumni association, and even chair conferences in China and India. Most importantly, BMUN is a close-knit group of friends that will provide you with a family away from home as you are adjusting to life as a Berkeley student. </p>
-        <p>Recruitment for BMUN takes place in the first three weeks of the semester; look out for us all over campus to get all the details! If any of you are interested in joining, please add yourselves to our recruitment mailing list <a href="http://goo.gl/PPr8Cu">here</a>. We promise, no spam, just information about when and how to apply for BMUN, and reminders about our informational sessions. Applications will be found at <a href="index.php">www.bmun.org</a>. If you have any questions, please email me at <a href="mailto:chief@bmun.org" target="_blank">chief@bmun.org</a>. We look forward to seeing you in the Fall!  </p>
+        <p>Dear Advisors and Delegates,</p>
+        <p>On behalf of our entire Secretariat, I would like to personally thank you for participating in BMUN LXIII. It is because of your hard work and dedication that we are able to host one of the largest and most esteemed conferences in the nation year after year. In return, our Secretariat is devoted to improving your experience, aiming to make each year better than the last. </p>
+        <p>That being said, as we start to prepare for BMUN LXIV we would like to invite all of our senior delegates who are attending UC Berkeley in the fall to join our organization on campus. Berkeley Model United Nations is a group of tightknit, motivated individuals dedicated to the promotion of international relations and educational outreach. As a member of our Secretariat, you would have the opportunity to not only become a chair at our prestigious conference, but also to participate in a wide variety of outreach and educational workshops, designed to spread awareness of international issues and unearth delegates’ true potential in policy debate and public speaking. Furthermore, by becoming a part of our family you will have the support of likeminded and competent individuals, connections with our extensive alumni network in a variety of industries, and chances to travel to countries like China, India, or Japan to chair international MUN conferences. Without a doubt, BMUN provides endless opportunities for you to grow as you are adjusting to life as a Berkeley student.</p>
+        <p>Our recruitment process will be taking place during the first three weeks of school, from Sept. 1st to Sept. 21st. Find us on Sproul or attend any of our info session and talk to us in person to learn more about the BMUN experience. If you’d like to be alerted of our info session dates or application deadlines, sign up for our mailing list here. Our online application can be found online at www.bmun.org, which will go live during the last week of August. If you have any questions please feel free to contact me at chief@bmun.org. We wish you the best of luck and hope to see you at one of our events in the near future!</p>
 
         <p>Sincerely,</p>
 
-        <p style="align:left; max-width:50%">Riyaz Shah<br>
-        Chief of Staff | BMUN LXIII <br>
+        <p style="align:left; max-width:50%">Tiffany Gean<br>
+        Chief of Staff | BMUN LXIV <br>
         <a href="mailto:chief@bmun.org" target="_blank">chief@bmun.org</a></p>
     </div>
 </div>

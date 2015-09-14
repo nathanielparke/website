@@ -22,14 +22,14 @@
             <div class="col-md-6 committee" style="text-align:right">
                 <h3 class="committee-heading"> 3rd Social, Cultural & Humanitarian</h3>
                 <h5><strong>Head Chair: Isabel Viegas de Lima</strong></h5>
-                <h5><strong>Vice Chairs: Octavi Farfan, Sarah Yue </h5></strong>
+                <h5><strong>Vice Chairs: Octavio Farfan, Sarah Yue </h5></strong>
                 <h5><a href="ComingSoon.php">Topics: TBD<!-- Securing Safe Mobility for Minorities, Evaluating the Impacts of Sex Tourism --></a> | <!-- <a href="http://sochum.blogs.bmun.org/">Blog</a>--> | <a href="mailto:research@bmun.org" target="_blank">Email</a></h5>
             </div>
 
             <div class="col-md-6 committee" style="text-align:left">
                 <h3 class="committee-heading"> 6th Legal</h3>
                 <h5><strong>Head Chair: Kimberly Nguyen</strong></h5>
-                <h5><strong>Vice Chairs: Thanh Mai Bercher, Peter Lee, Jessica Zhao</h5></strong>
+                <h5><strong>Vice Chairs: Thanh Mai Bercher, Jessica Zhao</h5></strong>
                 <h5><a href="ComingSoon.php">Topics: TBD<!-- International Law in Post-Confict regions, Cultural law in a time of western law --></a> | <!-- <a href="http://spd.blogs.bmun.org/">Blog</a>--> | <a href="mailto:knguyen@bmun.org" target="_blank">Email</a></h5>
             </div>
 
@@ -79,7 +79,7 @@
             <div class="col-md-6 committee">
                 <h3 class="committee-heading"> Security Council</h3>
                 <h5><strong>Head Chair: Trevor Dowds</strong></h5>
-                <h5><strong>Vice Chairs: Paul Lee</h5></strong>
+                <h5><strong>Vice Chairs: </h5></strong>
                 <h5><a href="ComingSoon.php">Topics: TBD<!-- The Syrian Civil War, Open Agenda --></a> | <!-- <a href="http://eu.blogs.bmun.org/">Blog</a>--> | <a href="mailto:tdowds@bmun.org" target="_blank">Email</a></h5>
             </div>
 
@@ -121,7 +121,7 @@
             <div class="col-md-6 committee">
                 <h3 class="committee-heading"> Press Corps</h3>
                 <h5><strong>Head Chair: Natasha Cougoule</strong></h5>
-                <h5><strong>Vice Chairs: Adam Yanklevits, Sey Kim</h5></strong>
+                <h5><strong>Vice Chairs: Sey Kim</h5></strong>
                 <h5><a href="ComingSoon.php">Topics: TBD<!-- Open Agenda --></a> | <!-- <a href="http://khan.blogs.bmun.org/">Blog</a> --> | <a href="mailto:ncougoule@bmun.org" target="_blank">Email</a></h5>
             </div>
 

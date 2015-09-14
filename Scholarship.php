@@ -1,4 +1,4 @@
-<?php 
+<?php
     include 'html/header.html';
     include 'html/navbar.html'
 ?>
@@ -6,21 +6,24 @@
 <!-- Marketing Container -->
 <div class="container">
     <div class="col-md-10 col-md-offset-1 content bgimg">
-        <h1 class="content-heading">Alumni Scholarship Letter</h1>
+        <h1 class="content-heading">Alumni Scholarship</h1>
         <hr>
 
-        <p>Dear Delegates and Advisors,</p>
-        
-        <p>On behalf of the Secretary General and the entire Secretariat, I would like to warmly welcome you to BMUN LXIII. My name is Jonas Majewski, and I have the privilege of serving as this year’s Treasurer. BMUN prides itself on being an affordable conference that gives every delegate the opportunity to attend and succeed, no matter what their background or financial situation. As such, we set aside a large portion of our funds every year for the Alumni Scholarship. </p>
-        <p>This scholarship is meant for students who would otherwise struggle with or be unable to pay for the cost of attending BMUN. Each application will be evaluated on a case-by-case basis and will either partially or fully fund the delegate’s trip to the conference. There is no upper limit on the award, but delegates chosen for the scholarship will be required to provide receipts and documentation for their expenditures. </p>
-        <p>We highly encourage all students in financial need to apply. Please submit the requested materials by January 31, 2014. In addition, we ask that the faculty member or advisor recommending you submit his form separately by the same deadline. If you have any questions do not hesitate to reach out to us, and we will be more than happy to assist you. </p>
+        <p>The BMUN Secretariat is committed to ensuring that no delegate is excluded from BMUN due to financial constraints. As such, our Alumni Scholarship allocates $7,000 of financial aid to low-income students. Individual delegates can apply for this assistance to cover part of the cost of attending BMUN, including delegate fees, transportation, and hotel costs. For the BMUN 64, we have significantly increased the scholarship amounts. All students in need are strongly encouraged to apply.</p>
+        <p>The financial aid is need-based for expenses directly related to the conference, transportation, hotel, and registration fees. In this application we ask for personal information regarding your finances that we believe will help us to determine the financial aid required for each applicant. We therefore ask that you provide proof of need in all applicable areas to increase your chances of receiving financial aid. All information will be treated with utmost confidentiality and will be used only for financial aid purposes.</p>
+        <p>In order for your scholarship application to be considered complete, both the student application and the School Advisor Recommendation form must be submitted by <strong>December 21, 2015</strong> in order to be considered for financial aid.</p>
+        <p>The Alumni Scholarship Application can be accessed <a href="https://goo.gl/7nZZNI">HERE</a> </p>
+        <p>The School Advisor Recommendation can be accessed <a href="https://goo.gl/r3TztN">HERE</a> </p>
+        <h3>Important Deadlines</h3>
+        <p><strong>August 24, 2015 -</strong> Alumni Scholarship Application is released and ready for submissions,</p>
+        <p><strong>December 21, 2015 –</strong> Student Application deadline. Both this student application and School Advisor Recommendation must be submitted by this date</p>
+        <p><strong>January 4, 2016 –</strong> Scholarship announcement via email</p>
+        <p><strong>January 11, 2016  –</strong> Scholarship acceptance deadline</p>
+        <p><strong>March 4, 2016 to March 6, 2016 –</strong> BMUN 64 Conference. Scholarship checks are available for pickup at registration and OPI during the conference. Students must provide receipts or proof of payment in order to receive check</p>
+        <p>If you wish to support the Alumni Scholarship, please consider donating on <a href="https://smile.amazon.com/ch/56-2457816">Amazon Smile</a>. If you buy anything on Amazon, you have the option of having Amazon donate 0.5% of your purchase to Berkeley Model United Nations, an official 501 (c) 3 non-profit organization. All the donations will go directly to our Alumni Scholarship program to further subsidize low-income students to attend BMUN LXIV. If you would like to help, visit Smile.Amazon.com and select Berkeley Model United Nations as your organization. It does not cost you anything because Amazon will donate on your behalf.</p>
 
-        <p> The application can be downloaded <a href='img/BMUN_Alumni_Scholarship.pdf'>here</a>.</p>
-
-        <p>Sincerely,</p>
-
-        <p style="align:left; max-width:50%">Jonas Majewski<br>
-        Treasurer | BMUN LXIII <br>
+        <p style="align:left; max-width:50%">Mischa Fritz<br>
+        Treasurer | BMUN LXIV <br>
         <a href="mailto:treasurer@bmun.org" target="_blank">treasurer@bmun.org</a></p>
     </div>
 </div>
