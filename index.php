@@ -1,7 +1,7 @@
 <?php
 	include 'html/header.html';
     include 'html/navbar.html';
-    include 'html/carousel.html';
+    include 'html/banner.html';
 ?>
 
     <!-- Marketing messaging and featurettes -->
