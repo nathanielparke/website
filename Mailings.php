@@ -1,4 +1,4 @@
-<?php 
+<?php
     include 'html/header.html';
     include 'html/navbar.html'
 ?>
@@ -13,59 +13,62 @@
 				<div class="panel-heading">
 				  <h4 class="panel-title">
 				    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-				      July 21st - First Mailing
+				      August 26th - First Mailing
 				    </a>
 				  </h4>
 				</div>
 				<div id="collapseOne" class="panel-collapse collapse">
 				  <div class="panel-body">
 				    <p> Dearest MUN Advisors, </p>
-					<p>On behalf of our secretariat and our Secretary-General Shrey Goel, I would like to cordially invite you to rejoin us from February 27th to March 1st of 2015 on the beautiful and historic UC Berkeley campus to participate in BMUN LXIII. This coming 63rd session is comprised of a diverse array of twenty committees, including the bilingual Inter-American Development Bank, Interpol, and the return of our very own Press Corps committee.</p>
-					<p>On our website you will find the following documents for your perusal:</p>
+					<p>On behalf of our Secretariat and our former Secretary-General Shrey Goel, I would like to thank you for attending the Sixty-Third Session of Berkeley Model United Nations. My name is Rita Hu, and I am your new Under-Secretary-General of External Relations. The current Secretary-General, Hee Soo Kim, and I would like to cordially invite you to rejoin us from <strong>March 4th to March 6th of 2016</strong> on the beautiful and historic UC Berkeley campus to participate in BMUN LXIV. This coming 64th session is comprised of a diverse array of nineteen committees, including the bilingual Community of Latin American and Caribbean States and Chinese State Council, Asian Infrastructure Investment Bank and Berkeley Venture Capital.</p>
+					<p>Attached are links to three documents for your perusal:</p>
 					<ol>
 						<li><a href="SG_Letter.php">A letter of welcome</a> from our Secretary-General</li>
 						<li><a href="Golden_Bears_Letter.php">Golden Bears Letter</a> written by our Chief of Staff Riyaz Shah for incoming UC Berkeley freshmen who would like to join us. If interested, they can sign up for our recruitment mailing list <a href="http://tinyurl.com/bmunmailing">here</a></li>
 						<li><a href="Outreach_Letter.php">Outreach Letter</a> that details our community initiatives from our Under-Secretary-General of Outreach Gabriella Espinoza</li>
+						<li><a href="64AdvisorGuide.pdf">Advisor Guide</a> that provides some important policy changes, more details regarding BMUN’s registration process, and other helpful tips for advisors</li>
 					</ol>
-					<p>This year, registration opens on Monday, September 15. We strongly encourage advisors to register their schools as soon as possible to ensure that they receive the country assignments they would like. More information on the registration process will be provided as we approach September. If you have any questions at all regarding BMUN LXIII, please do not hesitate to contact me at info@bmun.org. </p>
+					<p>This year, registration opens on <strong>Monday, September 14</strong>. We strongly encourage advisors to register their schools early to increase their chances of receiving their preferred country assignments. More information on the registration process will be provided as we approach September. If you have any questions at all regarding BMUN LXIV, please do not hesitate to contact me at <a href="mailto:info@bmun.org" target="_blank">info@bmun.org</a></p>
 
-					<p>Thank you, and we look forward to your participation in BMUN next February.</p>
+					<p>Thank you, and we look forward to your participation in BMUN next March.</p>
 
-					<p style="align:left; max-width:50%">Hee Soo Kim<br>
+					<p style="align:left; max-width:50%">Rita Hu<br>
 					USG of External Relations<br>
-					Berkeley Model United Nations, 63rd Session<br>
+					Berkeley Model United Nations, 64th Session<br>
 					<a href="mailto:info@bmun.org" target="_blank">info@bmun.org</a></p>
 
 				  </div>
 				</div>
 			</div>
-		  
+
 			<div class="panel panel-default">
 				<div class="panel-heading">
 				  <h4 class="panel-title">
 				    <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-				      Sep 15th - Registration Mailing
+				      Sep 14th - Registration Mailing
 				    </a>
 				  </h4>
 				</div>
 				<div id="collapseTwo" class="panel-collapse collapse">
 				  <div class="panel-body">
 				    <p>Dear MUN Advisor,</p>
-					<p>We are happy to announce that our registration application is now officially open. You can go to our website and find our registration application under the ‘Advisors’ tab. A full list of our committees can be viewed on our website, and questions about committees can be answered by viewing our Advisor FAQs page.</p>
-					<p>This year at BMUN, we will be performing registration on a first-come-first serve basis. In other words, as soon as a school registers, they will be automatically assigned countries and spots in specialized committees based on the preferences they indicate on the registration page. This is to accommodate a growing constituency of schools and delegates from around the globe and to provide all schools with a fair opportunity to get the spots they want.</p>
+					<p>We are happy to announce that our registration application will open at 8am PST today, <strong>September 14, 2015</strong>. You can go to our website and find our registration application under the “Advisors” tab or go directly to <a href="huxley.bmun.org">Huxley</a>. A step-by-step guideline for the registration process can be found on the Advisor Guide. In addition, a full list of our committees can be viewed on our website under the “BMUN LXIV” tab, here, and questions about committees can be answered by viewing our Advisor FAQs page here.</p>
+					<p>As since BMUN 62, we will continue to perform registration on a first-come, first-serve basis. In other words, the earlier that a team registers, the higher its chances of receiving its preferred country assignments. This is to accommodate a growing constituency of teams and delegates from around the globe</p>
+					<p>For BMUN LXIV, we have decided to adopt a new payment policy and a new system of releasing country assignments. After a team registers on Huxley, advisors will receive a confirmation email along with an invoice for the team fee. This non-refundable team fee must be paid by all teams by <strong>October 16th</strong>. Teams will then be notified of their registration status--whether they are on the registration list or wait list--by <strong>October 26th</strong>. Methods of payment can be found in the payment methods section of the Advisor Guide. If a team on the registration list fails to pay their team fee by <strong>October 16th</strong>, they will be dropped to the top of the waitlist. Please keep in mind that paying the team fee early while your team is still on the waitlist will not move your team up or out of the waitlist, unless a spot on the registration list opens from a late payment from a registered team. This may cause a delay on viewing country assignments since this year we are releasing country assignments in rounds instead of on a rolling basis. In the instance that we are unable to accommodate a team, the team fee will be fully refunded. For more detailed information on our new country assignment system and payment policy, please refer to the Advisor Guide.</p>
 					<p>A timeline of our important dates, including when the first round of country assignments will be released, is available on our website.</p>
+					<p>If you have any questions or concerns, please do not hesitate to contact us at <a href="mailto:info@bmun.org" target="_blank">info@bmun.org</a>.</p>
 
-					<p>Thank you, and we look forward to having you at BMUN LXIII.</p>
+					<p>Thank you, and we look forward to having you at BMUN LXIV.</p>
 
-					<p style="align:left; max-width:50%">Hee Soo Kim<br>
+					<p style="align:left; max-width:50%">Rita Hu<br>
 					USG of External Relations<br>
-					Berkeley Model United Nations, 63rd Session<br>
+					Berkeley Model United Nations, 64th Session<br>
 					<a href="mailto:info@bmun.org" target="_blank">info@bmun.org</a></p>
 				  </div>
 				</div>
 			</div>
 
-			<div class="panel panel-default">
+			<!-- <div class="panel panel-default">
 				<div class="panel-heading">
 				  <h4 class="panel-title">
 				    <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
@@ -203,8 +206,8 @@
 					<a href="mailto:info@bmun.org" target="_blank">info@bmun.org</a></p>
 				  </div>
 				</div>
-			</div>
-		  
+			</div> -->
+
 		</div>
 
 	</div>
