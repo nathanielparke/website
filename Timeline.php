@@ -1,5 +1,5 @@
-<!DOCTYPE html> 
-<html lang="en"> 
+<!DOCTYPE html>
+<html lang="en">
 
     <head>
         <meta charset="utf-8">
@@ -18,138 +18,152 @@
         <link rel="stylesheet" href="css/bmun-theme.css" type="text/css"/>
     </head>
 
-    <body> 
+    <body>
         <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
 
-<?php 
+<?php
     include 'html/navbar.html'
 ?>
 
 <div class="container">
     <div class="col-md-10 col-md-offset-1 content bgimg">
-    	<h1 class="content-heading">BMUN LXIII Timeline</h1>
+    	<h1 class="content-heading">BMUN LXIV Timeline</h1>
         <hr>
 
         <section id="cd-timeline" class="cd-container">
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
 					<h2>First Mailing</h2>
-					<span class="cd-date">July	 21</span>
-				</div> 
-			</div> 
+					<span class="cd-date">Aug 26</span>
+				</div>
+			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
 					<h2>Registration Begins</h2>
-					<span class="cd-date">Sep 15</span>
-				</div> 
+					<span class="cd-date">Sep 14</span>
+				</div>
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Second Mailing</h2>
+					<span class="cd-date">Sep 14</span>
+				</div>
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Deposit Payment Remider Mailing</h2>
+					<span class="cd-date">Oct 9</span>
+				</div>
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Deposit Payment Due</h2>
+					<span class="cd-date">Oct 16</span>
+				</div>
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Registration Status Update Mailing</h2>
+					<span class="cd-date">Oct 26</span>
+				</div>
 			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
 					<h2>Delegate Workshop</h2>
-					<span class="cd-date">Nov 1</span>
-				</div> 
-			</div> 
-
-			<div class="cd-timeline-block">
-				<div class="cd-timeline-content">
-					<h2>Second Mailing; Topic Synopses; First round of Country Assignments</h2>
-					<span class="cd-date">Nov 7</span>
-				</div> 
-			</div> 
-
-			<div class="cd-timeline-block">
-				<div class="cd-timeline-content">
-					<h2>Third Mailing</h2>
-					<span class="cd-date">Dec 26</span>
-				</div> 
+					<span class="cd-date">Nov 14</span>
+				</div>
 			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Assignment Finalization</h2>
-					<span class="cd-date">Jan 24th</span>
-				</div> 
-			</div> 
+					<h2>Third Mailing / First Round of Country Assignments / Second Round of Deposit Payment</h2>
+					<span class="cd-date">Nov 16</span>
+				</div>
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Second Round of Country Assignments / Third Round of Deposit Payment</h2>
+					<span class="cd-date">Dec 7</span>
+				</div>
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Fourth Mailing</h2>
+					<span class="cd-date">Dec 14</span>
+				</div>
+			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
 					<h2>Alumni Scholarship Deadline</h2>
-					<span class="cd-date">Jan 31st</span>
-				</div> 
-			</div> 
+					<span class="cd-date">Dec 21</span>
+				</div>
+			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Position Paper Deadline 1: Research Award Eligibility</h2>
+					<h2>Third Round of Country Assignments / Fourth Round of Deposit Payment</h2>
+					<span class="cd-date">Dec 28</span>
+				</div>
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Alumni Scholarship Finalists Announced</h2>
+					<span class="cd-date">Jan 4</span>
+				</div>
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Deadline for Alumni Scholarship Finalists to accept</h2>
+					<span class="cd-date">Jan 11</span>
+				</div>
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Assignment Finalization Deadline / Third Round Payment Deadline</h2>
+					<span class="cd-date">Jan 13</span>
+				</div>
+			</div>
+
+			<div class="cd-timeline-block">
+				<div class="cd-timeline-content">
+					<h2>Delegate Names due/ Position Paper Deadline 1</h2>
 					<span class="cd-date">Feb 1</span>
-				</div> 
-			</div> 
-
-			<div class="cd-timeline-block">
-				<div class="cd-timeline-content">
-					<h2>Delegate Name Finalization; Waitlist Assignment Finalization</h2>
-					<span class="cd-date">Feb 6</span>
-				</div> 
-			</div> 
-
-			<div class="cd-timeline-block">
-				<div class="cd-timeline-content">
-					<h2>Alumni Scholarship Winners Notified</h2>
-					<span class="cd-date">Feb 7</span>
-				</div> 
-			</div> 
-
-			<div class="cd-timeline-block">
-				<div class="cd-timeline-content">
-					<h2>Waitlist Position Paper Deadline 1</h2>
-					<span class="cd-date">Feb 8</span>
-				</div> 
+				</div>
 			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Alumni Scholarship Award Acceptance Deadline</h2>
-					<span class="cd-date">Feb 10</span>
-				</div> 
+					<h2>Fifth Mailing</h2>
+					<span class="cd-date">Feb 15</span>
+				</div>
 			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Position Paper Deadline 2: Committee Award Eligibility</h2>
-					<span class="cd-date">Feb 11</span>
-				</div> 
-			</div> 
-
-			<div class="cd-timeline-block">
-				<div class="cd-timeline-content">
-					<h2>Delegate Name Finalization For Waitlisted Schools; Delegate Waivers Due; Payment Due; Fourth Mailing</h2>
-					<span class="cd-date">Feb 13</span>
-				</div> 
+					<h2>Position Paper Deadline 2/ Refund Deadline/ Waiver Deadline</h2>
+					<span class="cd-date">Feb 15</span>
+				</div>
 			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Waitlist Position Paper Deadline 2</h2>
-					<span class="cd-date">Feb 18</span>
-				</div> 
-			</div> 
-
-			<div class="cd-timeline-block">
-				<div class="cd-timeline-content">
-					<h2>Waitlist Payment Due</h2>
-					<span class="cd-date">Feb 20</span>
-				</div> 
-			</div> 
-
-			<div class="cd-timeline-block">
-				<div class="cd-timeline-content">
-					<h2>BMUN LXIII</h2>
-					<span class="cd-date">Feb 27-Mar 1</span>
-				</div> 
-			</div> 
+					<h2>BMUN LXIV</h2>
+					<span class="cd-date">Mar 4 - 6</span>
+				</div>
+			</div>
 
 		</section>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
