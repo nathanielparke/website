@@ -1,6 +1,6 @@
 <?php
-    include 'html/header.html';
-    include 'html/navbar.html'
+    include '../html/header.html';
+    include '../html/navbar.html'
 ?>
 
 <!-- Marketing Container -->
@@ -351,5 +351,5 @@
 </div>
 
 <?php
-    include 'html/footer.html';
+    include '../html/footer.html';
 ?>

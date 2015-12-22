@@ -6,6 +6,19 @@ body {
 	font-family: Century Gothic;
 }
 
+.hover-grey {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);  /* For Webkit browsers */
+    filter: gray;  /* For IE 6 - 9 */
+    -webkit-transition: all .6s ease;  /* Transition for Webkit browsers */
+}
+
+.hover-grey:hover {
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+    filter: none;
+}
+
 .bgimg {
 	background-image:url(../img/BG_Logo.png);
 	background-repeat:no-repeat;

@@ -1,6 +1,7 @@
 <?php
     include 'html/header.html';
-    include 'html/navbar.html'
+    include 'html/navbar.html';
+    ini_set("auto_detect_line_endings", true);
 ?>
 
 <div class="container">
@@ -17,9 +18,8 @@
                 $officer_major = $officer[2];
                 $officer_year = $officer[3];
                 $officer_role = $officer[4];
-                $officer_extracurriculars = $officer[5];
-                $officer_delegates = $officer[6];
-                $filename = ".\OfficerPics\\" . str_replace(' ', '', $officer_name) . ".jpg";
+                $officer_delegates = $officer[5];
+                $filename = "./OfficerPics\\".str_replace(' ', '', $officer_name).".jpg";
 
                 echo "<div class=\"row front\">
                     <div class=\"col-md-6\" >
@@ -29,7 +29,6 @@
                             <li><b>Major: </b>$officer_major</li>
                             <li><b>Year: </b>$officer_year</li>
                             <li><b>Their Role in Bmun: </b>$officer_role</li>
-                            <li><b>Extracurriculars: </b>$officer_extracurriculars</li>
                             <li><b>Message to Delegates: </b>$officer_delegates</li>
                         </ul>
                     </div>
@@ -46,5 +45,5 @@
 </div>
 
 <?php
-    include 'html/footer.html';
+    include './html/footer.html';
 ?>

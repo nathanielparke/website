@@ -15,25 +15,25 @@
             <div class="col-lg-3">
                 <img class="img-circle" src="img/Globe_Logo_Blue.png">
                 <h2>Outreach Letter</h2>
-                <p><a class="btn btn-default" href="Outreach_Letter.php" role="button">
+                <p><a class="btn btn-default" href="php/Outreach_Letter.php" role="button">
                     Read it now! &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-3">
                 <img class="img-circle" src="img/Globe_Logo_Blue.png">
                 <h2>SG Letter </h2>
-                <p><a class="btn btn-default" href="SG_Letter.php" role="button">
+                <p><a class="btn btn-default" href="php/SG_Letter.php" role="button">
                     Read it now! &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-3">
                 <img class="img-circle" src="img/Globe_Logo_Blue.png">
                 <h2>Golden Bears Letter</h2>
-                <p><a class="btn btn-default" href="Golden_Bears_Letter.php" role="button">
+                <p><a class="btn btn-default" href="php/Golden_Bears_Letter.php" role="button">
                     Read it now! &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-3">
                 <img class="img-circle" src="img/Globe_Logo_Blue.png">
                 <h2>Delegate Welcome Letter</h2>
-                <p><a class="btn btn-default" href="Delegate_Welcome.php" role="button">
+                <p><a class="btn btn-default" href="php/Delegate_Welcome.php" role="button">
                     Read it now! &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
@@ -56,7 +56,7 @@
                 facilitate delegate education through substantive diplomatic debate. </p>
             </div>
             <div class="col-md-6">
-                <img class="featurette-image img-responsive" src= "img/opening.jpg">
+                <img class="featurette-image img-responsive hover-grey" src= "img/opening.jpg">
             </div>
         </div>
 
@@ -64,7 +64,7 @@
 
         <div class="row-front">
             <div class="col-md-6">
-                <img class="featurette-image img-responsive" src="img/Opening_Head_Chairs.jpg">
+                <img class="featurette-image img-responsive hover-grey" src="img/Opening_Head_Chairs.jpg">
             </div>
             <div class="col-md-6">
                 <h2 class="featurette-heading">Who are we?</h2>
@@ -88,7 +88,7 @@
                 international issues facing our world today.</p>
             </div>
             <div class="col-md-6">
-                <img class="featurette-image img-responsive" src = "img/Outreach.jpg">
+                <img class="featurette-image img-responsive hover-grey" src = "img/Outreach.jpg">
             </div>
         </div>
 

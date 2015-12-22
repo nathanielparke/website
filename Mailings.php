@@ -23,10 +23,10 @@
 					<p>On behalf of our Secretariat and our former Secretary-General Shrey Goel, I would like to thank you for attending the Sixty-Third Session of Berkeley Model United Nations. My name is Rita Hu, and I am your new Under-Secretary-General of External Relations. The current Secretary-General, Hee Soo Kim, and I would like to cordially invite you to rejoin us from <strong>March 4th to March 6th of 2016</strong> on the beautiful and historic UC Berkeley campus to participate in BMUN LXIV. This coming 64th session is comprised of a diverse array of nineteen committees, including the bilingual Community of Latin American and Caribbean States and Chinese State Council, Asian Infrastructure Investment Bank and Berkeley Venture Capital.</p>
 					<p>Attached are links to three documents for your perusal:</p>
 					<ol>
-						<li><a href="SG_Letter.php">A letter of welcome</a> from our Secretary-General</li>
-						<li><a href="Golden_Bears_Letter.php">Golden Bears Letter</a> written by our Chief of Staff Riyaz Shah for incoming UC Berkeley freshmen who would like to join us. If interested, they can sign up for our recruitment mailing list <a href="http://tinyurl.com/bmunmailing">here</a></li>
-						<li><a href="Outreach_Letter.php">Outreach Letter</a> that details our community initiatives from our Under-Secretary-General of Outreach Gabriella Espinoza</li>
-						<li><a href="64AdvisorGuide.pdf">Advisor Guide</a> that provides some important policy changes, more details regarding BMUN’s registration process, and other helpful tips for advisors</li>
+						<li><a href="php/SG_Letter.php">A letter of welcome</a> from our Secretary-General</li>
+						<li><a href="php/Golden_Bears_Letter.php">Golden Bears Letter</a> written by our Chief of Staff Riyaz Shah for incoming UC Berkeley freshmen who would like to join us. If interested, they can sign up for our recruitment mailing list <a href="http://tinyurl.com/bmunmailing">here</a></li>
+						<li><a href="php/Outreach_Letter.php">Outreach Letter</a> that details our community initiatives from our Under-Secretary-General of Outreach Gabriella Espinoza</li>
+						<li><a href="php/64AdvisorGuide.pdf">Advisor Guide</a> that provides some important policy changes, more details regarding BMUN’s registration process, and other helpful tips for advisors</li>
 					</ol>
 					<p>This year, registration opens on <strong>Monday, September 14</strong>. We strongly encourage advisors to register their schools early to increase their chances of receiving their preferred country assignments. More information on the registration process will be provided as we approach September. If you have any questions at all regarding BMUN LXIV, please do not hesitate to contact me at <a href="mailto:info@bmun.org" target="_blank">info@bmun.org</a></p>
 
