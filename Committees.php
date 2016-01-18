@@ -122,14 +122,14 @@
                 <h3 class="committee-heading"> Press Corps</h3>
                 <h5><strong>Head Chair: Natasha Cougoule</strong></h5>
                 <h5><strong>Vice Chairs: Sey Kim, Ashley Njoroge, Emma Lautanen, Hyunwook Kim</h5></strong>
-                <h5><a href="topicSynopses/PRESS.pdf">Open Agenda</a> | <!-- <a href="http://press.blogs.bmun.org/">Blog</a> --> | <a href="mailto:ncougoule@bmun.org" target="_blank">Email</a></h5>
+                <h5><a href="topicSynopses/PRESS.pdf">Open Agenda</a> | <a href="http://press.blogs.bmun.org/">Blog</a> | <a href="mailto:ncougoule@bmun.org" target="_blank">Email</a></h5>
             </div>
 
             <div class="col-md-6 committee" style="text-align:right">
                 <h3 class="committee-heading"> The Community of Latin American and Caribbean States / La Comunidad de Estados Latinoamericanos y Caribeños (Spanish Bilingual)</h3>
                 <h5><strong>Head Chair: Brett Buckingham</strong></h5>
-                <h5><strong>Vice Chairs: Adrian Hernandez</h5></strong>
-                <h5><a href="topicSynopses/CELAC.pdf">Economic Development Policy: Alternatives to Neoliberalism? (English), Preparing for Environmental Change:  Disaster Risk Management Strategies (Español) </a> | <!-- <a href="http://celac.blogs.bmun.org/">Blog</a>--> | <a href="mailto:ops@bmun.org" target="_blank">Email</a></h5>
+                <h5><strong>Vice Chairs: Adrian Hernandez, Jane Kim</h5></strong>
+                <h5><a href="topicSynopses/CELAC.pdf">Economic Development Policy: Alternatives to Neoliberalism? (English), Preparing for Environmental Change:  Disaster Risk Management Strategies (Español) </a> |  <a href="http://celac.blogs.bmun.org/">Blog</a> | <a href="mailto:ops@bmun.org" target="_blank">Email</a></h5>
             </div>
 
             <hr>
@@ -147,18 +147,18 @@
                 <h3 class="committee-heading"> Tudor Court</h3>
                 <h5><strong>Head Chair: Eric Cherwin</strong></h5>
                 <h5><strong>Vice Chairs: Mekhala Hoskote, Arjun Banerjee</h5></strong>
-                <h5><a href="topicSynopses/TUDOR.pdf">Heir to England: Preservation of the House of Tudor</a> | <!--<a href="http://tudor.blogs.bmun.org/">Blog</a>--> | <a href="mailto:echerwin@bmun.org" target="_blank">Email</a></h5>
+                <h5><a href="topicSynopses/TUDOR.pdf">Heir to England: Preservation of the House of Tudor</a> | <a href="http://tudor.blogs.bmun.org/">Blog</a> | <a href="mailto:echerwin@bmun.org" target="_blank">Email</a></h5>
             </div>
 
             <div class="col-md-6 committee">
                 <h3 class="committee-heading"> Berkeley Venture Capital</h3>
                 <h5><strong>Head Chair: Vishal Kalyanasundaram</strong></h5>
                 <h5><strong>Vice Chairs: Ben Sher, Jacky Tian</h5></strong>
-                <h5><a href="topicSynopses/BVC.pdf">Entrepreneurship</a> | <!-- <a href="http://bvc.blogs.bmun.org/">Blog</a>--> | <a href="mailto:vkal@bmun.org" target="_blank">Email</a></h5>
+                <h5><a href="topicSynopses/BVC.pdf">Entrepreneurship</a> |  <a href="http://bvc.blogs.bmun.org/">Blog</a> | <a href="mailto:vkal@bmun.org" target="_blank">Email</a></h5>
             </div>
 
 
-    </div>
+    </div>b
 </div>
 
 <?php
