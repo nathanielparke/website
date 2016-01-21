@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<?php
+    include 'html/navbar.html'
+?>
 <html lang="en">
 
     <head>
@@ -11,20 +14,16 @@
         <title>Berkeley Model United Nations</title>
         <link rel="icon" type="img/png" href="img/favicon.png">
 
-        <link rel="stylesheet" href="css/bootstrap.min.css"  type="text/css"/>
+        <link rel="stylesheet" href="static/css/bootstrap.min.css"  type="text/css"/>
 
         <!-- Custom Styles -->
-        <link rel="stylesheet" href="css/vertical_timeline.css" type="text/css">
-        <link rel="stylesheet" href="css/bmun-theme.css" type="text/css"/>
+        <link rel="stylesheet" href="static/css/vertical_timeline.css" type="text/css">
+        <link rel="stylesheet" href="static/css/bmun-theme.css" type="text/css"/>
     </head>
 
     <body>
         <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-
-<?php
-    include 'html/navbar.html'
-?>
+        <script src="static/js/bootstrap.min.js"></script>
 
 <div class="container">
     <div class="col-md-10 col-md-offset-1 content bgimg">
