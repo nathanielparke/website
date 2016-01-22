@@ -62,7 +62,7 @@
                 <h3 class="committee-heading"> United Nations Development Programme</h3>
                 <h5><strong>Head Chair: Benjy Malings</strong></h5>
                 <h5><strong>Vice Chairs: David McDonogh, Amanda Lee, Patricia Midy</h5></strong>
-                <h5><a href="ComingSoon.php">Participation in Fair Elections, Sovereignty During Disaster Relief</a> |  <a href="http://undp.blogs.bmun.org/">Blog</a> | <a href="mailto:outreach@bmun.org" target="_blank">Email</a></h5>
+                <h5><a href="topicSynopses/UNDP.pdf">Participation in Fair Elections, Sovereignty During Disaster Relief</a> |  <a href="http://undp.blogs.bmun.org/">Blog</a> | <a href="mailto:outreach@bmun.org" target="_blank">Email</a></h5>
             </div>
 
             <div class=" committee">
