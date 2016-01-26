@@ -1,6 +1,6 @@
 <?php
-    include '../html/header.html';
-    include '../html/navbar.html'
+    include 'html/header.html';
+    include 'html/navbar.html'
 ?>
 
 <!-- Marketing Container -->
@@ -233,7 +233,7 @@
 		    <h2 class="bloc-heading">Miscellaneous <p class="pull-right"><a href="#"><smalL>Back to top</small></a></p></h2>
 
 		    <dl>
-		    	<dt id="misc_q1" class="anchor">What does BMUN 63 mean by going green, and why is BMUN undertaking this initiative?</dt>
+		    	<dt id="misc_q1" class="anchor">What does BMUN 64 mean by going green, and why is BMUN undertaking this initiative?</dt>
 		    	<dd>Berkeley is the third greenest city in America. All around us, institutions are making efforts to reduce paper and water waste. BMUN believes in living the principles we espouse, and that is why we have undertaken the going green initiative in the 57th session and continued to uphold this initiative. Our conference will be going waste-neutral by reducing paper waste via online submission of position papers and projected (rather than printed) resolutions. Also, the staff will work to recycle and compost all waste produced by the conference.</dd>
 
 		    	<br>

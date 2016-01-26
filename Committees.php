@@ -16,7 +16,7 @@
                 <h3 class="committee-heading"> 1st Disarmament & International Security</h3>
                 <h5><strong>Head Chair: Tiffany Gean</strong></h5>
                 <h5><strong>Vice Chairs: Eric Dumas, Sherry Guo, Michael Pollack </h5></strong>
-                <h5><a href="ComingSoon.php">Extremist Groups in sub-Saharan Africa, Disarmament of the Arctic Circle</a> | <a href="http://disc.blogs.bmun.org/">Blog</a>| <a href="mailto:chief@bmun.org" target="_blank">Email</a></h5>
+                <h5><a href="topicSynopses/DISEC.pdf">Extremist Groups in sub-Saharan Africa, Disarmament of the Arctic Circle</a> | <a href="http://disc.blogs.bmun.org/">Blog</a>| <a href="mailto:chief@bmun.org" target="_blank">Email</a></h5>
             </div>
 
             <div class=" committee" >
@@ -48,7 +48,7 @@
                 <h3 class="committee-heading"> World Health Organization</h3>
                 <h5><strong>Head Chair: Hunter Conrad</strong></h5>
                 <h5><strong>Vice Chairs: Stacey Dojiri, Nicholas Spelta, TJ Ford </h5></strong>
-                <h5><a href="topicSynopses/WHO.pdf">The Double Burden of Disease</a> |  <a href="http://who.blogs.bmun.org/">Blog</a> | <a href="mailto:hconrad@bmun.org" target="_blank">Email</a></h5>
+                <h5><a href="topicSynopses/WHO.pdf">Drugs: Crime or Health Issue?, The Double Burden of Disease</a> |  <a href="http://who.blogs.bmun.org/">Blog</a> | <a href="mailto:hconrad@bmun.org" target="_blank">Email</a></h5>
             </div>
 
             <div class=" committee">

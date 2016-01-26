@@ -132,28 +132,28 @@
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
 					<h2>Assignment Finalization Deadline / Third Round Payment Deadline</h2>
-					<span class="cd-date">Jan 13</span>
+					<span class="cd-date">Jan 19</span>
 				</div>
 			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Delegate Names due/ Position Paper Deadline 1</h2>
-					<span class="cd-date">Feb 1</span>
+					<h2>Delegate Names due / Position Paper Deadline 1 (Email to Head Chair) </h2>
+					<span class="cd-date">Feb 10</span>
 				</div>
 			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Fifth Mailing</h2>
+					<h2>Fifth Mailing / Refund Deadline/ Waiver Deadline</h2>
 					<span class="cd-date">Feb 15</span>
 				</div>
 			</div>
 
 			<div class="cd-timeline-block">
 				<div class="cd-timeline-content">
-					<h2>Position Paper Deadline 2/ Refund Deadline/ Waiver Deadline</h2>
-					<span class="cd-date">Feb 15</span>
+					<h2>Position Paper Deadline 2 (Email to Head Chair)</h2>
+					<span class="cd-date">Feb 20</span>
 				</div>
 			</div>
 
