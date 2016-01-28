@@ -94,7 +94,7 @@
                 <h3 class="committee-heading"> Chinese State Council (Chinese Bilingual)</h3>
                 <h5><strong>Head Chair: Rita Hu</strong></h5>
                 <h5><strong>Vice Chairs: Haochen Zhou, Lucia Zhang</h5></strong>
-                <h5><a href="ComingSoon.php">Unrest in the West: Tibet & Xianjiang (Chinese), Foreign Investment in Latin America (English)</a> |  <a href="http://csc.blogs.bmun.org/">Blog</a> | <a href="mailto:info@bmun.org" target="_blank">Email</a></h5>
+                <h5><a href="topicSynopses/CSC.pdf">Unrest in the West: Tibet & Xianjiang (Chinese), Foreign Investment in Latin America (English)</a> |  <a href="http://csc.blogs.bmun.org/">Blog</a> | <a href="mailto:info@bmun.org" target="_blank">Email</a></h5>
             </div>
 
             <div class=" committee" >
