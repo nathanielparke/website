@@ -115,7 +115,7 @@
                 <h3 class="committee-heading"> European Union</h3>
                 <h5><strong>Head Chair: Pranay Patil</strong></h5>
                 <h5><strong>Vice Chairs: Brandon Doan, Danny Tuthill, Sarah Bauer</h5></strong>
-                <h5><a href="ComingSoon.php">Economic Impacts of Cyber Warfare, Treatment of Immigrants in the European Union</a> | <a href="http://eu.blogs.bmun.org/">Blog</a> | <a href="mailto:ppatil@bmun.org" target="_blank">Email</a></h5>
+                <h5><a href="topicSynopses/EU.pdf">Economic Impacts of Cyber Warfare, Treatment of Immigrants in the European Union</a> | <a href="http://eu.blogs.bmun.org/">Blog</a> | <a href="mailto:ppatil@bmun.org" target="_blank">Email</a></h5>
             </div>
 
             <div class=" committee">
