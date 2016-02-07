@@ -1,10 +1,10 @@
-<?php 
+<?php
     include 'html/header.html';
     include 'html/navbar.html'
 ?>
 
 <!-- Marketing Container -->
-<div class="container">
+<!-- <div class="container">
     <div class="col-md-10 col-md-offset-1 content bgimg">
         <h1 class="content-heading">Delegate Welcome</h1>
         <hr>
@@ -47,7 +47,7 @@
         Under-Secretary General of Research | BMUN LXIII <br>
         <a href="mailto:research@bmun.org" target="_blank">research@bmun.org</a></p>
     </div>
-</div>
+</div> -->
 
 <?php
     include 'html/footer.html';
